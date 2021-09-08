@@ -1,0 +1,3765 @@
+Country,Category,ForeignInvestment,Date,FinancialYear
+China,Agriculture and Forestry,12,2005,2004-2005
+China,Construction,53.88,2005,2004-2005
+China,Manufacturing,2.95,2005,2004-2005
+India,Manufacturing,5,2005,2004-2005
+Netherlands,Manufacturing,15.3,2005,2004-2005
+India,Manufacturing,11.79,2005,2004-2005
+India,Manufacturing,10,2005,2004-2005
+India,Manufacturing,116,2005,2004-2005
+China,Manufacturing,30,2005,2004-2005
+France,Manufacturing,60,2005,2004-2005
+Germany,Manufacturing,10,2005,2004-2005
+India,Manufacturing,8,2005,2004-2005
+India,Manufacturing,30,2005,2004-2005
+India,Service,504.56,2005,2004-2005
+Austria,Service,5,2005,2004-2005
+India,Service,2.5,2005,2004-2005
+Germany,Service,0.99,2005,2004-2005
+USA,Service,2.5,2005,2004-2005
+China,Service,5,2005,2004-2005
+Germany,Service,5,2005,2004-2005
+UK,Service,73.11,2005,2004-2005
+China,Service,100.98,2005,2004-2005
+India,Service,5,2005,2004-2005
+India,Service,2.03,2005,2004-2005
+Turkey,Service,3,2005,2004-2005
+Japan,Service,2.5,2005,2004-2005
+Japan,Service,2.34,2005,2004-2005
+Russia,Service,2.1,2005,2004-2005
+UK,Tourism,7.53,2005,2004-2005
+S. Korea,Tourism,2.5,2005,2004-2005
+Belgium,Tourism,2.5,2005,2004-2005
+Japan,Tourism,2,2005,2004-2005
+Belgium,Tourism,3.67,2005,2004-2005
+Japan,Tourism,2.5,2005,2004-2005
+S. Korea,Tourism,3,2005,2004-2005
+Italy,Tourism,5,2005,2004-2005
+China,Tourism,2.5,2005,2004-2005
+India,Construction,45.3,2006,2005-2006
+Spain,Construction,36,2006,2005-2006
+Germany,Energy,20,2006,2005-2006
+Germany,Energy,100,2006,2005-2006
+India,Manufacturing,25,2006,2005-2006
+India,Manufacturing,15,2006,2005-2006
+UK,Manufacturing,17,2006,2005-2006
+Japan,Manufacturing,2.5,2006,2005-2006
+India,Manufacturing,2,2006,2005-2006
+India,Manufacturing,199.37,2006,2005-2006
+China,Manufacturing,26,2006,2005-2006
+Sweden,Manufacturing,1.5,2006,2005-2006
+China,Manufacturing,8.17,2006,2005-2006
+Malaysia,Manufacturing,60,2006,2005-2006
+India,Manufacturing,80,2006,2005-2006
+France,Manufacturing,4.98,2006,2005-2006
+Japan,Manufacturing,3.5,2006,2005-2006
+India,Manufacturing,119.71,2006,2005-2006
+China,Manufacturing,8.8,2006,2005-2006
+India,Manufacturing,15.38,2006,2005-2006
+China,Manufacturing,87.65,2006,2005-2006
+India,Manufacturing,41,2006,2005-2006
+China,Manufacturing,130,2006,2005-2006
+India,Manufacturing,42.71,2006,2005-2006
+India,Manufacturing,6.25,2006,2005-2006
+India,Manufacturing,9,2006,2005-2006
+India,Manufacturing,16,2006,2005-2006
+India,Manufacturing,158,2006,2005-2006
+India,Manufacturing,40,2006,2005-2006
+India,Manufacturing,160,2006,2005-2006
+Russia,Service,33,2006,2005-2006
+India,Service,5,2006,2005-2006
+S. Korea,Service,5,2006,2005-2006
+Netherlands,Service,2.8,2006,2005-2006
+India,Service,18.46,2006,2005-2006
+S. Korea,Service,3.32,2006,2005-2006
+India,Service,2.5,2006,2005-2006
+Belgium,Service,3.5,2006,2005-2006
+UK,Service,3,2006,2005-2006
+China,Service,7.21,2006,2005-2006
+India,Service,5,2006,2005-2006
+Japan,Service,5,2006,2005-2006
+Japan,Service,5,2006,2005-2006
+China,Service,2,2006,2005-2006
+Philippines,Service,2.5,2006,2005-2006
+Poland,Service,2.5,2006,2005-2006
+Iran,Service,2,2006,2005-2006
+USA,Service,5,2006,2005-2006
+China,Service,3.5,2006,2005-2006
+UK,Service,380,2006,2005-2006
+Japan,Service,5,2006,2005-2006
+Canada,Service,2.5,2006,2005-2006
+Japan,Service,4,2006,2005-2006
+Iran,Service,2.4,2006,2005-2006
+India,Service,600,2006,2005-2006
+Netherlands,Service,5.6,2006,2005-2006
+Belgium,Service,3.1,2006,2005-2006
+India,Service,112.08,2006,2005-2006
+China,Service,8.4,2006,2005-2006
+Germany,Service,2.5,2006,2005-2006
+India,Tourism,5,2006,2005-2006
+China,Tourism,10,2006,2005-2006
+India,Tourism,8,2006,2005-2006
+S. Korea,Tourism,2.06,2006,2005-2006
+China,Tourism,3.4,2006,2005-2006
+USA,Tourism,10,2006,2005-2006
+China,Tourism,8,2006,2005-2006
+China,Tourism,10,2006,2005-2006
+China,Tourism,3.4,2006,2005-2006
+USA,Tourism,5,2006,2005-2006
+Japan,Tourism,2.4,2006,2005-2006
+China,Tourism,10,2006,2005-2006
+China,Tourism,4.5,2006,2005-2006
+UK,Tourism,5.25,2006,2005-2006
+USA,Tourism,30,2006,2005-2006
+Japan,Tourism,7.53,2006,2005-2006
+UK,Tourism,1.58,2006,2005-2006
+India,Tourism,6,2006,2005-2006
+UK,Tourism,2.48,2006,2005-2006
+Bangladesh,Tourism,2.5,2006,2005-2006
+Spain,Tourism,7.5,2006,2005-2006
+Switzerland,Tourism,10,2006,2005-2006
+UK,Tourism,10,2006,2005-2006
+UK,Tourism,3,2006,2005-2006
+Pakistan,Tourism,5.41,2006,2005-2006
+Australia,,3.2,2007,2006-2007
+Australia,,9,2007,2006-2007
+Belgium,,4.5,2007,2006-2007
+Canada,,86.51,2007,2006-2007
+China,,263.13,2007,2006-2007
+France,,12.93,2007,2006-2007
+Finland,,5,2007,2006-2007
+Germany,,36.55,2007,2006-2007
+Holand,,1.79,2007,2006-2007
+India,,1719.54,2007,2006-2007
+Ireland,,3.96,2007,2006-2007
+Israel,,1.5,2007,2006-2007
+Italy,,4.5,2007,2006-2007
+Japan,,59.09,2007,2006-2007
+Libiya,,5,2007,2006-2007
+Mexico,,5.33,2007,2006-2007
+Netherlands,,13.23,2007,2006-2007
+Philippines,,2,2007,2006-2007
+Russia,,5.03,2007,2006-2007
+S. Korea,,60,2007,2006-2007
+Switzerland,,1.5,2007,2006-2007
+UAE,,35,2007,2006-2007
+UK,,52.04,2007,2006-2007
+Ukraine,,1.7,2007,2006-2007
+USA,,60.1,2007,2006-2007
+India,Agriculture and Forestry,3.3,2008,2007-2008
+India,Agriculture and Forestry,6,2008,2007-2008
+India,Agriculture and Forestry,40,2008,2007-2008
+S. Korea,Agriculture and Forestry,9.4,2008,2007-2008
+S. Korea,Agriculture and Forestry,5,2008,2007-2008
+Bangladesh,Agriculture and Forestry,5,2008,2007-2008
+Spain,Agriculture and Forestry,7,2008,2007-2008
+UK,Agriculture and Forestry,5,2008,2007-2008
+Russia,Construction,1150,2008,2007-2008
+China,Construction,39.4,2008,2007-2008
+UK,Construction,160,2008,2007-2008
+Colombia,Construction,50,2008,2007-2008
+Poland,Construction,59.08,2008,2007-2008
+Israel,Construction,50,2008,2007-2008
+India,Construction,250,2008,2007-2008
+Ireland,Construction,10,2008,2007-2008
+Kyrgystan,Construction,30,2008,2007-2008
+India,Energy,1990,2008,2007-2008
+N. Korea,Energy,450,2008,2007-2008
+Sweden,Energy,250,2008,2007-2008
+Iran,Energy,3398.12,2008,2007-2008
+UK,Energy,8,2008,2007-2008
+S. Korea,Energy,700,2008,2007-2008
+UK,Energy,50,2008,2007-2008
+USA,Manufacturing,440.16,2008,2007-2008
+S. Korea,Manufacturing,100,2008,2007-2008
+USA,Manufacturing,5,2008,2007-2008
+Germany,Manufacturing,7.5,2008,2007-2008
+S. Korea,Manufacturing,3.8,2008,2007-2008
+USA,Manufacturing,2,2008,2007-2008
+Australia,Manufacturing,6.83,2008,2007-2008
+India,Manufacturing,7.5,2008,2007-2008
+India,Manufacturing,5,2008,2007-2008
+Norway,Manufacturing,50,2008,2007-2008
+Germany,Manufacturing,6,2008,2007-2008
+India,Manufacturing,30,2008,2007-2008
+UK,Manufacturing,2.45,2008,2007-2008
+China,Manufacturing,2,2008,2007-2008
+Canada,Manufacturing,25,2008,2007-2008
+Australia,Manufacturing,6,2008,2007-2008
+Japan,Manufacturing,5,2008,2007-2008
+UK,Manufacturing,10,2008,2007-2008
+Germany,Manufacturing,9.9,2008,2007-2008
+S. Korea,Manufacturing,9,2008,2007-2008
+Germany,Manufacturing,500,2008,2007-2008
+Australia,Manufacturing,40,2008,2007-2008
+USA,Manufacturing,39.5,2008,2007-2008
+Italy,Manufacturing,70,2008,2007-2008
+India,Manufacturing,30,2008,2007-2008
+China,Manufacturing,2.5,2008,2007-2008
+Japan,Manufacturing,9.9,2008,2007-2008
+Russia,Manufacturing,5,2008,2007-2008
+Australia,Manufacturing,6,2008,2007-2008
+Switzerland,Manufacturing,5,2008,2007-2008
+Turkey,Manufacturing,48,2008,2007-2008
+India,Manufacturing,100,2008,2007-2008
+Russia,Manufacturing,8,2008,2007-2008
+India,Manufacturing,700,2008,2007-2008
+S. Korea,Manufacturing,40,2008,2007-2008
+India,Mines and Minerals,9,2008,2007-2008
+Germany,Mines and Minerals,1587,2008,2007-2008
+Switzerland,Service,3,2008,2007-2008
+Germany,Service,2.8,2008,2007-2008
+China,Service,1.5,2008,2007-2008
+UAE,Service,3,2008,2007-2008
+India,Service,1.5,2008,2007-2008
+S. Korea,Service,3.5,2008,2007-2008
+Italy,Service,10,2008,2007-2008
+Netherlands,Service,2.5,2008,2007-2008
+Canada,Service,6,2008,2007-2008
+Sweden,Service,7.5,2008,2007-2008
+Norway,Service,15,2008,2007-2008
+India,Service,3.66,2008,2007-2008
+USA,Service,4.5,2008,2007-2008
+Japan,Service,12,2008,2007-2008
+India,Service,8,2008,2007-2008
+Belgium,Service,2.5,2008,2007-2008
+S. Korea,Service,823.2,2008,2007-2008
+China,Service,9,2008,2007-2008
+Australia,Service,2.5,2008,2007-2008
+S. Korea,Service,4.8,2008,2007-2008
+Netherlands,Service,3.4,2008,2007-2008
+India,Service,3.67,2008,2007-2008
+USA,Service,20,2008,2007-2008
+S. Africa,Service,2.5,2008,2007-2008
+Malaysia,Service,4.2,2008,2007-2008
+India,Service,2.5,2008,2007-2008
+India,Service,10,2008,2007-2008
+China,Service,2.5,2008,2007-2008
+S. Korea,Service,3,2008,2007-2008
+Netherlands,Service,2.5,2008,2007-2008
+India,Service,2,2008,2007-2008
+China,Service,1841.3,2008,2007-2008
+Spain,Service,10,2008,2007-2008
+Japan,Service,6,2008,2007-2008
+China,Service,7,2008,2007-2008
+S. Korea,Service,10,2008,2007-2008
+India,Service,10,2008,2007-2008
+India,Tourism,6,2008,2007-2008
+USA,Tourism,5,2008,2007-2008
+UK,Tourism,2.5,2008,2007-2008
+China,Tourism,2.4,2008,2007-2008
+India,Tourism,5,2008,2007-2008
+S. Korea,Tourism,5,2008,2007-2008
+India,Tourism,15,2008,2007-2008
+Australia,Tourism,5,2008,2007-2008
+UK,Tourism,10,2008,2007-2008
+Germany,Tourism,20,2008,2007-2008
+S. Korea,Tourism,1.8,2008,2007-2008
+Japan,Tourism,50,2008,2007-2008
+Spain,Tourism,5,2008,2007-2008
+Kyrgystan,Tourism,6,2008,2007-2008
+UK,Tourism,2.18,2008,2007-2008
+China,Tourism,6,2008,2007-2008
+China,Tourism,3,2008,2007-2008
+India,Tourism,7.8,2008,2007-2008
+China,Tourism,2.5,2008,2007-2008
+India,Tourism,219.2,2008,2007-2008
+S. Korea,Tourism,2.5,2008,2007-2008
+Pakistan,Tourism,5,2008,2007-2008
+Israel,Tourism,20.64,2008,2007-2008
+Malaysia,Tourism,20,2008,2007-2008
+India,Tourism,5,2008,2007-2008
+Denmark,Tourism,2.5,2008,2007-2008
+Germany,Tourism,10,2008,2007-2008
+China,Tourism,5,2008,2007-2008
+UK,Tourism,5,2008,2007-2008
+UK,Tourism,4.8,2008,2007-2008
+India,Tourism,2,2008,2007-2008
+China,Tourism,10,2008,2007-2008
+China,Tourism,2.11,2008,2007-2008
+S. Korea,Tourism,2.5,2008,2007-2008
+India,Tourism,9,2008,2007-2008
+India,Tourism,9.8,2008,2007-2008
+S. Korea,Tourism,10,2008,2007-2008
+USA,Tourism,5,2008,2007-2008
+France,Tourism,3,2008,2007-2008
+USA,Tourism,9,2008,2007-2008
+China,Tourism,10,2008,2007-2008
+Singapore,Agriculture and Forestry,30,2009,2008-2009
+India,Agriculture and Forestry,560,2009,2008-2009
+India,Agriculture and Forestry,6.7,2009,2008-2009
+India,Construction,88.57,2009,2008-2009
+India,Energy,20,2009,2008-2009
+China,Energy,119.76,2009,2008-2009
+China,Energy,8,2009,2008-2009
+India,Energy,500,2009,2008-2009
+Singapore,Energy,530,2009,2008-2009
+India,Energy,3,2009,2008-2009
+India,Energy,1500,2009,2008-2009
+Canada,Energy,200,2009,2008-2009
+Switzerland,Manufacturing,8,2009,2008-2009
+China,Manufacturing,4,2009,2008-2009
+India,Manufacturing,8,2009,2008-2009
+India,Manufacturing,499.9,2009,2008-2009
+China,Manufacturing,10,2009,2008-2009
+Australia,Manufacturing,8,2009,2008-2009
+China,Manufacturing,20,2009,2008-2009
+Bangladesh,Manufacturing,6,2009,2008-2009
+Denmark,Manufacturing,49.8,2009,2008-2009
+India,Manufacturing,10,2009,2008-2009
+Bangladesh,Manufacturing,15,2009,2008-2009
+Switzerland,Manufacturing,158,2009,2008-2009
+China,Manufacturing,10,2009,2008-2009
+Israel,Manufacturing,9,2009,2008-2009
+China,Manufacturing,2.5,2009,2008-2009
+China,Manufacturing,10,2009,2008-2009
+India,Manufacturing,35.7,2009,2008-2009
+India,Manufacturing,1.5,2009,2008-2009
+Brazil,Manufacturing,500,2009,2008-2009
+UK,Manufacturing,100,2009,2008-2009
+China,Manufacturing,8,2009,2008-2009
+Japan,Manufacturing,15.6,2009,2008-2009
+Singapore,Manufacturing,2.9,2009,2008-2009
+USA,Manufacturing,8,2009,2008-2009
+China,Manufacturing,20,2009,2008-2009
+India,Manufacturing,78,2009,2008-2009
+China,Manufacturing,20,2009,2008-2009
+China,Manufacturing,5.7,2009,2008-2009
+China,Manufacturing,10,2009,2008-2009
+China,Manufacturing,20,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,50,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,20,2009,2008-2009
+China,Mines and Minerals,200,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+Singapore,Mines and Minerals,1.6,2009,2008-2009
+Cyprus,Mines and Minerals,1000,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,10,2009,2008-2009
+China,Mines and Minerals,49,2009,2008-2009
+Philippines,Mines and Minerals,3.43,2009,2008-2009
+India,Service,162.43,2009,2008-2009
+Japan,Service,1.5,2009,2008-2009
+India,Service,10,2009,2008-2009
+India,Service,50,2009,2008-2009
+Denmark,Service,2.5,2009,2008-2009
+Belgium,Service,2.5,2009,2008-2009
+Japan,Service,10,2009,2008-2009
+Bangladesh,Service,5,2009,2008-2009
+UK,Service,2,2009,2008-2009
+China,Service,3,2009,2008-2009
+S. Korea,Service,10,2009,2008-2009
+China,Service,9,2009,2008-2009
+France,Service,2,2009,2008-2009
+China,Service,6,2009,2008-2009
+China,Service,4.8,2009,2008-2009
+India,Service,200,2009,2008-2009
+USA,Service,10,2009,2008-2009
+Japan,Service,5.27,2009,2008-2009
+S. Korea,Service,50,2009,2008-2009
+Spain,Service,5,2009,2008-2009
+China,Service,10,2009,2008-2009
+China,Service,10,2009,2008-2009
+India,Service,49.8,2009,2008-2009
+Sweden,Service,2.5,2009,2008-2009
+USA,Service,10,2009,2008-2009
+India,Service,15,2009,2008-2009
+Philippines,Service,2,2009,2008-2009
+China,Service,2.5,2009,2008-2009
+UK,Service,10,2009,2008-2009
+UK,Service,45,2009,2008-2009
+India,Service,2.5,2009,2008-2009
+China,Service,10,2009,2008-2009
+India,Service,10,2009,2008-2009
+India,Service,3.2,2009,2008-2009
+India,Service,2.5,2009,2008-2009
+S. Korea,Service,4,2009,2008-2009
+Netherlands,Service,30,2009,2008-2009
+China,Service,10,2009,2008-2009
+Thailand,Service,3.25,2009,2008-2009
+Pakistan,Service,2.4,2009,2008-2009
+USA,Service,2.5,2009,2008-2009
+S. Korea,Service,8,2009,2008-2009
+Japan,Service,3.2,2009,2008-2009
+Russia,Tourism,3.8,2009,2008-2009
+India,Tourism,10,2009,2008-2009
+China,Tourism,15,2009,2008-2009
+China,Tourism,6,2009,2008-2009
+France,Tourism,5,2009,2008-2009
+India,Tourism,49.5,2009,2008-2009
+UK,Tourism,6,2009,2008-2009
+India,Tourism,5,2009,2008-2009
+Japan,Tourism,4.21,2009,2008-2009
+Netherlands,Tourism,3,2009,2008-2009
+China,Tourism,6,2009,2008-2009
+France,Tourism,5.5,2009,2008-2009
+Bangladesh,Tourism,2.5,2009,2008-2009
+S. Korea,Tourism,20,2009,2008-2009
+Iran,Tourism,2.5,2009,2008-2009
+UK,Tourism,10,2009,2008-2009
+USA,Tourism,2.5,2009,2008-2009
+China,Tourism,6,2009,2008-2009
+USA,Tourism,2.5,2009,2008-2009
+UK,Tourism,5,2009,2008-2009
+UK,Tourism,2,2009,2008-2009
+Canada,Tourism,1.73,2009,2008-2009
+China,Tourism,6,2009,2008-2009
+China,Tourism,40,2009,2008-2009
+Germany,Tourism,50,2009,2008-2009
+China,Tourism,10,2009,2008-2009
+USA,Tourism,10,2009,2008-2009
+China,Tourism,2.5,2009,2008-2009
+S. Africa,Tourism,10,2009,2008-2009
+Mexico,Tourism,10,2009,2008-2009
+China,Tourism,8,2009,2008-2009
+France,Tourism,2.5,2009,2008-2009
+China,Tourism,4.8,2009,2008-2009
+Germany,Tourism,5,2009,2008-2009
+Spain,Tourism,5,2009,2008-2009
+India,Tourism,3,2009,2008-2009
+India,Tourism,2.94,2009,2008-2009
+China,Tourism,6.4,2009,2008-2009
+Denmark,Tourism,10,2009,2008-2009
+China,Tourism,10,2009,2008-2009
+Australia,Tourism,5,2009,2008-2009
+Croatia,Tourism,2.5,2009,2008-2009
+UK,Tourism,5,2009,2008-2009
+China,Tourism,10,2009,2008-2009
+USA,Tourism,5,2009,2008-2009
+UK,Tourism,10,2009,2008-2009
+Germany,Tourism,50,2009,2008-2009
+China,Tourism,4.8,2009,2008-2009
+USA,Agriculture and Forestry,25,2010,2009-2010
+Singapore,Agriculture and Forestry,75,2010,2009-2010
+China,Construction,200,2010,2009-2010
+Canada,Energy,39950.5,2010,2009-2010
+India,Energy,1700,2010,2009-2010
+India,Energy,19960,2010,2009-2010
+India,Energy,19000,2010,2009-2010
+India,Energy,19000,2010,2009-2010
+Australia,Manufacturing,80,2010,2009-2010
+Australia,Manufacturing,40,2010,2009-2010
+China,Manufacturing,54,2010,2009-2010
+China,Manufacturing,80,2010,2009-2010
+China,Manufacturing,90,2010,2009-2010
+China,Manufacturing,80,2010,2009-2010
+China,Manufacturing,80,2010,2009-2010
+China,Manufacturing,90,2010,2009-2010
+China,Manufacturing,96,2010,2009-2010
+China,Manufacturing,200,2010,2009-2010
+China,Manufacturing,95,2010,2009-2010
+China,Manufacturing,230,2010,2009-2010
+China,Manufacturing,96,2010,2009-2010
+China,Manufacturing,25,2010,2009-2010
+Denmark,Manufacturing,100,2010,2009-2010
+Egypt,Manufacturing,100,2010,2009-2010
+India,Manufacturing,11000,2010,2009-2010
+India,Manufacturing,94,2010,2009-2010
+India,Manufacturing,50,2010,2009-2010
+India,Manufacturing,458,2010,2009-2010
+India,Manufacturing,200,2010,2009-2010
+India,Manufacturing,50,2010,2009-2010
+India,Manufacturing,500,2010,2009-2010
+India,Manufacturing,470,2010,2009-2010
+India,Manufacturing,1500,2010,2009-2010
+India,Manufacturing,100,2010,2009-2010
+Japan,Manufacturing,47,2010,2009-2010
+Japan,Manufacturing,150,2010,2009-2010
+Japan,Manufacturing,25,2010,2009-2010
+Mauritius,Manufacturing,10300,2010,2009-2010
+Mauritius,Manufacturing,10500,2010,2009-2010
+Russia,Manufacturing,75,2010,2009-2010
+S. Korea,Manufacturing,100,2010,2009-2010
+S. Korea,Manufacturing,100,2010,2009-2010
+UK,Manufacturing,60,2010,2009-2010
+USA,Manufacturing,100,2010,2009-2010
+Uzbekistan,Manufacturing,100,2010,2009-2010
+China,Mines and Minerals,300,2010,2009-2010
+China,Mines and Minerals,200,2010,2009-2010
+China,Mines and Minerals,300,2010,2009-2010
+China,Mines and Minerals,200,2010,2009-2010
+Australia,Service,60,2010,2009-2010
+Australia,Service,25,2010,2009-2010
+Bangladesh,Service,50,2010,2009-2010
+Canada,Service,34,2010,2009-2010
+China,Service,500,2010,2009-2010
+China,Service,90,2010,2009-2010
+China,Service,90,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,100,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,90,2010,2009-2010
+China,Service,480,2010,2009-2010
+China,Service,75,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,26.5,2010,2009-2010
+China,Service,500,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,100,2010,2009-2010
+China,Service,490,2010,2009-2010
+China,Service,100,2010,2009-2010
+China,Service,100,2010,2009-2010
+China,Service,80,2010,2009-2010
+China,Service,100,2010,2009-2010
+China,Service,25,2010,2009-2010
+China,Service,85,2010,2009-2010
+Congo,Service,25,2010,2009-2010
+Denmark,Service,25,2010,2009-2010
+Germany,Service,25,2010,2009-2010
+India,Service,200,2010,2009-2010
+India,Service,389.06,2010,2009-2010
+India,Service,100,2010,2009-2010
+India,Service,500,2010,2009-2010
+India,Service,24,2010,2009-2010
+India,Service,450,2010,2009-2010
+India,Service,100,2010,2009-2010
+India,Service,500,2010,2009-2010
+India,Service,20,2010,2009-2010
+India,Service,886.97,2010,2009-2010
+India,Service,100,2010,2009-2010
+India,Service,160,2010,2009-2010
+Israel,Service,148,2010,2009-2010
+Japan,Service,25,2010,2009-2010
+Kazakhstan,Service,100,2010,2009-2010
+Lebanon,Service,20,2010,2009-2010
+Netherlands,Service,25,2010,2009-2010
+NewZealand,Service,100,2010,2009-2010
+S. Korea,Service,50,2010,2009-2010
+S. Korea,Service,37,2010,2009-2010
+S. Korea,Service,25,2010,2009-2010
+S. Korea,Service,40,2010,2009-2010
+S. Korea,Service,500,2010,2009-2010
+S. Korea,Service,50,2010,2009-2010
+S. Korea,Service,500,2010,2009-2010
+S. Korea,Service,60,2010,2009-2010
+S. Korea,Service,25,2010,2009-2010
+S. Korea,Service,25,2010,2009-2010
+Sweden,Service,100,2010,2009-2010
+Turkey,Service,75,2010,2009-2010
+Turkey,Service,50,2010,2009-2010
+UK,Service,35,2010,2009-2010
+UK,Service,100,2010,2009-2010
+UK,Service,25,2010,2009-2010
+USA,Service,71,2010,2009-2010
+USA,Service,50,2010,2009-2010
+USA,Service,25,2010,2009-2010
+USA,Service,50,2010,2009-2010
+USA,Service,24,2010,2009-2010
+USA,Service,80,2010,2009-2010
+Australia,Tourism,31.5,2010,2009-2010
+Australia,Tourism,100,2010,2009-2010
+Bangladesh,Tourism,50,2010,2009-2010
+China,Tourism,60,2010,2009-2010
+China,Tourism,100,2010,2009-2010
+China,Tourism,80,2010,2009-2010
+China,Tourism,80,2010,2009-2010
+China,Tourism,48,2010,2009-2010
+China,Tourism,80,2010,2009-2010
+China,Tourism,80,2010,2009-2010
+China,Tourism,60,2010,2009-2010
+China,Tourism,60,2010,2009-2010
+China,Tourism,80,2010,2009-2010
+China,Tourism,80,2010,2009-2010
+China,Tourism,85,2010,2009-2010
+China,Tourism,100,2010,2009-2010
+China,Tourism,70,2010,2009-2010
+China,Tourism,50,2010,2009-2010
+China,Tourism,100,2010,2009-2010
+China,Tourism,112,2010,2009-2010
+Finland,Tourism,25,2010,2009-2010
+France,Tourism,100,2010,2009-2010
+France,Tourism,90,2010,2009-2010
+Germany,Tourism,60,2010,2009-2010
+Germany,Tourism,20,2010,2009-2010
+Germany,Tourism,25,2010,2009-2010
+China,Tourism,2000,2010,2009-2010
+Hungery,Tourism,100,2010,2009-2010
+India,Tourism,383.22,2010,2009-2010
+Netherlands,Tourism,50,2010,2009-2010
+NewZealand,Tourism,30,2010,2009-2010
+Norway,Tourism,100,2010,2009-2010
+Philippines,Tourism,50,2010,2009-2010
+Russia,Tourism,25,2010,2009-2010
+S. Korea,Tourism,25,2010,2009-2010
+S. Korea,Tourism,25,2010,2009-2010
+S. Korea,Tourism,48,2010,2009-2010
+S. Korea,Tourism,42,2010,2009-2010
+S. Korea,Tourism,50,2010,2009-2010
+S. Korea,Tourism,35,2010,2009-2010
+S. Korea,Tourism,80,2010,2009-2010
+S. Korea,Tourism,50,2010,2009-2010
+Singapore,Tourism,100,2010,2009-2010
+Spain,Tourism,100,2010,2009-2010
+UAE,Tourism,5000,2010,2009-2010
+UK,Tourism,25,2010,2009-2010
+UK,Tourism,25,2010,2009-2010
+USA,Tourism,48,2010,2009-2010
+USA,Tourism,50,2010,2009-2010
+Vietnam,Tourism,96,2010,2009-2010
+Netherlands,Agriculture and Forestry,45.9,2011,2010-2011
+Turkey,Agriculture and Forestry,10,2011,2010-2011
+China,Agriculture and Forestry,10,2011,2010-2011
+Australia,Agriculture and Forestry,10,2011,2010-2011
+China,Agriculture and Forestry,10,2011,2010-2011
+Philippines,Agriculture and Forestry,10,2011,2010-2011
+Bangladesh,Agriculture and Forestry,10,2011,2010-2011
+S. Korea,Agriculture and Forestry,5,2011,2010-2011
+UK,Agriculture and Forestry,2.5,2011,2010-2011
+Denmark,Agriculture and Forestry,110,2011,2010-2011
+S. Korea,Agriculture and Forestry,10,2011,2010-2011
+China,Agriculture and Forestry,2.4,2011,2010-2011
+India,Agriculture and Forestry,100,2011,2010-2011
+China,Agriculture and Forestry,45,2011,2010-2011
+Norway,Agriculture and Forestry,6,2011,2010-2011
+China,Agriculture and Forestry,5,2011,2010-2011
+China,Agriculture and Forestry,20,2011,2010-2011
+China,Agriculture and Forestry,8.5,2011,2010-2011
+India,Agriculture and Forestry,8.3,2011,2010-2011
+China,Agriculture and Forestry,4.8,2011,2010-2011
+China,Agriculture and Forestry,20,2011,2010-2011
+Canada,Agriculture and Forestry,10,2011,2010-2011
+China,Agriculture and Forestry,10,2011,2010-2011
+China,Construction,150,2011,2010-2011
+India,Energy,900,2011,2010-2011
+Thailand,Energy,70,2011,2010-2011
+China,Energy,48,2011,2010-2011
+Mauritius,Energy,200,2011,2010-2011
+Mauritius,Energy,200,2011,2010-2011
+India,Energy,600,2011,2010-2011
+China,Manufacturing,50,2011,2010-2011
+Japan,Manufacturing,2.5,2011,2010-2011
+China,Manufacturing,20,2011,2010-2011
+USA,Manufacturing,4,2011,2010-2011
+Ecuador,Manufacturing,2.5,2011,2010-2011
+China,Manufacturing,10,2011,2010-2011
+UK,Manufacturing,10,2011,2010-2011
+China,Manufacturing,8,2011,2010-2011
+China,Manufacturing,8,2011,2010-2011
+India,Manufacturing,10,2011,2010-2011
+India,Manufacturing,300,2011,2010-2011
+Bangladesh,Manufacturing,2.4,2011,2010-2011
+China,Manufacturing,161.5,2011,2010-2011
+China,Manufacturing,10,2011,2010-2011
+India,Manufacturing,541.5,2011,2010-2011
+India,Manufacturing,1000,2011,2010-2011
+India,Manufacturing,400,2011,2010-2011
+India,Manufacturing,1280,2011,2010-2011
+India,Manufacturing,99,2011,2010-2011
+China,Manufacturing,10,2011,2010-2011
+India,Manufacturing,130,2011,2010-2011
+India,Manufacturing,1800,2011,2010-2011
+Japan,Manufacturing,4.8,2011,2010-2011
+India,Manufacturing,8,2011,2010-2011
+China,Manufacturing,5,2011,2010-2011
+India,Manufacturing,1,2011,2010-2011
+India,Manufacturing,8,2011,2010-2011
+China,Manufacturing,20,2011,2010-2011
+India,Manufacturing,20,2011,2010-2011
+Japan,Manufacturing,5,2011,2010-2011
+UK,Manufacturing,30,2011,2010-2011
+USA,Manufacturing,4.8,2011,2010-2011
+France,Manufacturing,8,2011,2010-2011
+China,Manufacturing,44,2011,2010-2011
+India,Manufacturing,206.5,2011,2010-2011
+China,Manufacturing,10,2011,2010-2011
+S. Korea,Manufacturing,2.5,2011,2010-2011
+China,Manufacturing,7,2011,2010-2011
+India,Manufacturing,25,2011,2010-2011
+India,Mines and Minerals,30,2011,2010-2011
+China,Mines and Minerals,9.6,2011,2010-2011
+India,Mines and Minerals,30,2011,2010-2011
+Uae,Mines and Minerals,34,2011,2010-2011
+China,Mines and Minerals,10,2011,2010-2011
+UK,Service,20,2011,2010-2011
+Iran,Service,2.5,2011,2010-2011
+China,Service,10,2011,2010-2011
+China,Service,10,2011,2010-2011
+India,Service,2.5,2011,2010-2011
+Germany,Service,2.5,2011,2010-2011
+China,Service,8,2011,2010-2011
+China,Service,10,2011,2010-2011
+S. Korea,Service,1.5,2011,2010-2011
+China,Service,6,2011,2010-2011
+China,Service,8,2011,2010-2011
+China,Service,48,2011,2010-2011
+Brazil,Service,10,2011,2010-2011
+France,Service,5,2011,2010-2011
+India,Service,30,2011,2010-2011
+Kazakhstan,Service,2,2011,2010-2011
+USA,Service,12.5,2011,2010-2011
+China,Service,49,2011,2010-2011
+China,Service,10,2011,2010-2011
+China,Service,2.5,2011,2010-2011
+S. Korea,Service,4.8,2011,2010-2011
+China,Service,10,2011,2010-2011
+Bangladesh,Service,2.4,2011,2010-2011
+S. Korea,Service,3,2011,2010-2011
+India,Service,23,2011,2010-2011
+China,Service,8,2011,2010-2011
+Netherlands,Service,44.5,2011,2010-2011
+China,Service,9.6,2011,2010-2011
+Switzerland,Service,10,2011,2010-2011
+China,Service,9.9,2011,2010-2011
+Belgium,Service,2.5,2011,2010-2011
+China,Service,10,2011,2010-2011
+Japan,Service,15,2011,2010-2011
+UK,Service,10,2011,2010-2011
+Canada,Service,10,2011,2010-2011
+USA,Service,2,2011,2010-2011
+S. Korea,Service,3.2,2011,2010-2011
+India,Service,2.5,2011,2010-2011
+India,Service,5,2011,2010-2011
+India,Service,5,2011,2010-2011
+Russia,Service,45,2011,2010-2011
+India,Service,48,2011,2010-2011
+China,Service,10,2011,2010-2011
+India,Service,10,2011,2010-2011
+USA,Service,10,2011,2010-2011
+S. Korea,Service,3.4,2011,2010-2011
+China,Service,5,2011,2010-2011
+India,Service,10,2011,2010-2011
+Japan,Service,3.2,2011,2010-2011
+Turkey,Service,2.5,2011,2010-2011
+China,Service,10,2011,2010-2011
+China,Service,5.1,2011,2010-2011
+China,Service,9.8,2011,2010-2011
+India,Service,20,2011,2010-2011
+USA,Service,2,2011,2010-2011
+Syria,Service,2.5,2011,2010-2011
+S. Korea,Service,2.5,2011,2010-2011
+Sri Lanka,Service,10,2011,2010-2011
+India,Service,4,2011,2010-2011
+Singapore,Service,44,2011,2010-2011
+Canada,Service,6,2011,2010-2011
+Japan,Service,4,2011,2010-2011
+China,Service,46,2011,2010-2011
+Australia,Service,10,2011,2010-2011
+Australia,Service,2.4,2011,2010-2011
+India,Service,6,2011,2010-2011
+China,Service,30,2011,2010-2011
+India,Service,4.6,2011,2010-2011
+S. Korea,Service,8,2011,2010-2011
+S. Korea,Service,8,2011,2010-2011
+S. Korea,Service,2.1,2011,2010-2011
+China,Service,10,2011,2010-2011
+Ireland,Service,9,2011,2010-2011
+UK,Service,1.8,2011,2010-2011
+Belgium,Service,16,2011,2010-2011
+China,Service,38,2011,2010-2011
+Japan,Service,2.9,2011,2010-2011
+China,Service,4,2011,2010-2011
+China,Service,10,2011,2010-2011
+France,Service,10,2011,2010-2011
+Australia,Service,6,2011,2010-2011
+UK,Service,4,2011,2010-2011
+Malaysia,Service,2.1,2011,2010-2011
+China,Service,10,2011,2010-2011
+Australia,Service,10,2011,2010-2011
+USA,Service,49,2011,2010-2011
+China,Service,3.7,2011,2010-2011
+UK,Service,10,2011,2010-2011
+China,Tourism,10,2011,2010-2011
+China,Tourism,7.5,2011,2010-2011
+China,Tourism,9,2011,2010-2011
+China,Tourism,8,2011,2010-2011
+Germany,Tourism,10,2011,2010-2011
+China,Tourism,10,2011,2010-2011
+Singapore,Tourism,500,2011,2010-2011
+China,Tourism,9.6,2011,2010-2011
+Sweden,Tourism,2.4,2011,2010-2011
+France,Tourism,5,2011,2010-2011
+India,Tourism,2.5,2011,2010-2011
+India,Tourism,2,2011,2010-2011
+S. Korea,Tourism,4,2011,2010-2011
+China,Tourism,10,2011,2010-2011
+S. Korea,Tourism,6,2011,2010-2011
+China,Tourism,8,2011,2010-2011
+UK,Tourism,10,2011,2010-2011
+China,Tourism,2.5,2011,2010-2011
+France,Tourism,10,2011,2010-2011
+Poland,Tourism,8.5,2011,2010-2011
+Thailand,Tourism,6,2011,2010-2011
+France,Tourism,6,2011,2010-2011
+Turkey,Tourism,5,2011,2010-2011
+India,Tourism,1.6,2011,2010-2011
+Israel,Tourism,6.8,2011,2010-2011
+India,Tourism,85,2011,2010-2011
+Germany,Tourism,8,2011,2010-2011
+India,Tourism,120,2011,2010-2011
+Poland,Tourism,30,2011,2010-2011
+Denmark,Tourism,10,2011,2010-2011
+Italy,Tourism,2.5,2011,2010-2011
+Japan,Tourism,3.8,2011,2010-2011
+Malaysia,Tourism,150,2011,2010-2011
+China,Tourism,11.9,2011,2010-2011
+Brazil,Tourism,10,2011,2010-2011
+Israel,Tourism,10,2011,2010-2011
+USA,Tourism,10,2011,2010-2011
+S. Korea,Tourism,2.5,2011,2010-2011
+China,Tourism,10.5,2011,2010-2011
+China,Tourism,9.6,2011,2010-2011
+Canada,Tourism,7.5,2011,2010-2011
+Germany,Tourism,12,2011,2010-2011
+China,Tourism,20,2011,2010-2011
+China,Tourism,10,2011,2010-2011
+S. Korea,Tourism,2.5,2011,2010-2011
+S. Korea,Tourism,5.1,2011,2010-2011
+China,Tourism,14,2011,2010-2011
+China,Agriculture and Forestry,9.6,2012,2011-2012
+S. Korea,Agriculture and Forestry,5,2012,2011-2012
+China,Agriculture and Forestry,9.6,2012,2011-2012
+China,Agriculture and Forestry,8,2012,2011-2012
+China,Agriculture and Forestry,20,2012,2011-2012
+China,Agriculture and Forestry,15,2012,2011-2012
+China,Agriculture and Forestry,15,2012,2011-2012
+China,Agriculture and Forestry,6,2012,2011-2012
+China,Agriculture and Forestry,15,2012,2011-2012
+Iran,Agriculture and Forestry,13,2012,2011-2012
+BritishVirginIsland,Agriculture and Forestry,5,2012,2011-2012
+USA,Agriculture and Forestry,10,2012,2011-2012
+China,Agriculture and Forestry,15,2012,2011-2012
+S. Korea,Agriculture and Forestry,8,2012,2011-2012
+China,Agriculture and Forestry,20,2012,2011-2012
+India,Energy,900,2012,2011-2012
+China,Energy,9.5,2012,2011-2012
+Korea,Energy,2000,2012,2011-2012
+Singapore,Energy,2100,2012,2011-2012
+India,Manufacturing,10,2012,2011-2012
+India,Manufacturing,30.2,2012,2011-2012
+Malaysia,Manufacturing,10,2012,2011-2012
+China,Manufacturing,10,2012,2011-2012
+Japan,Manufacturing,1.9,2012,2011-2012
+USA,Manufacturing,4.8,2012,2011-2012
+USA,Manufacturing,3.3,2012,2011-2012
+Singapore,Manufacturing,1000,2012,2011-2012
+S. Korea,Manufacturing,10,2012,2011-2012
+China,Manufacturing,10,2012,2011-2012
+India,Manufacturing,1.6,2012,2011-2012
+China,Manufacturing,49,2012,2011-2012
+Italy,Manufacturing,3.5,2012,2011-2012
+Italy,Manufacturing,3.5,2012,2011-2012
+China,Manufacturing,20,2012,2011-2012
+India,Manufacturing,800,2012,2011-2012
+India,Manufacturing,48.2,2012,2011-2012
+S. Korea,Manufacturing,5,2012,2011-2012
+France,Manufacturing,3.5,2012,2011-2012
+China,Manufacturing,8,2012,2011-2012
+BritishVirginIsland,Manufacturing,45,2012,2011-2012
+China,Manufacturing,10,2012,2011-2012
+India,Manufacturing,970,2012,2011-2012
+UAE,Manufacturing,340,2012,2011-2012
+India,Manufacturing,15,2012,2011-2012
+China,Manufacturing,10,2012,2011-2012
+Belgium,Manufacturing,12.6,2012,2011-2012
+China,Manufacturing,9,2012,2011-2012
+China,Manufacturing,11.4,2012,2011-2012
+USA,Manufacturing,75,2012,2011-2012
+UK,Manufacturing,7,2012,2011-2012
+China,Mines and Minerals,9.5,2012,2011-2012
+Japan,Mines and Minerals,17.2,2012,2011-2012
+China,Mines and Minerals,10,2012,2011-2012
+China,Mines and Minerals,15,2012,2011-2012
+China,Mines and Minerals,40,2012,2011-2012
+China,Mines and Minerals,40,2012,2011-2012
+China,Mines and Minerals,40,2012,2011-2012
+Malaysia,Service,10,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,10,2012,2011-2012
+Japan,Service,1.9,2012,2011-2012
+India,Service,86.9,2012,2011-2012
+China,Service,8,2012,2011-2012
+France,Service,6.8,2012,2011-2012
+India,Service,10,2012,2011-2012
+Turkey,Service,500,2012,2011-2012
+USA,Service,2,2012,2011-2012
+China,Service,10,2012,2011-2012
+UK,Service,10,2012,2011-2012
+USA,Service,4.6,2012,2011-2012
+USA,Service,4.7,2012,2011-2012
+Denmark,Service,4.8,2012,2011-2012
+India,Service,10,2012,2011-2012
+Netherlands,Service,2.5,2012,2011-2012
+India,Service,500,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,38,2012,2011-2012
+Japan,Service,4,2012,2011-2012
+Japan,Service,8,2012,2011-2012
+Switzerland,Service,6.8,2012,2011-2012
+China,Service,7.5,2012,2011-2012
+India,Service,43.2,2012,2011-2012
+Bangladesh,Service,5,2012,2011-2012
+China,Service,10,2012,2011-2012
+S. Korea,Service,5,2012,2011-2012
+India,Service,2.5,2012,2011-2012
+USA,Service,2.5,2012,2011-2012
+China,Service,10,2012,2011-2012
+India,Service,5,2012,2011-2012
+Bangladesh,Service,5,2012,2011-2012
+Bangladesh,Service,8,2012,2011-2012
+Bahrain,Service,70,2012,2011-2012
+Cyprus,Service,10,2012,2011-2012
+Turkey,Service,44.5,2012,2011-2012
+China,Service,4,2012,2011-2012
+UK,Service,3.6,2012,2011-2012
+China,Service,20,2012,2011-2012
+Japan,Service,3.2,2012,2011-2012
+China,Service,40,2012,2011-2012
+China,Service,6,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,6,2012,2011-2012
+Switzerland,Service,3.2,2012,2011-2012
+S. Korea,Service,2.5,2012,2011-2012
+Russia,Service,8.9,2012,2011-2012
+China,Service,45,2012,2011-2012
+India,Service,48,2012,2011-2012
+S. Korea,Service,4.8,2012,2011-2012
+India,Service,2.5,2012,2011-2012
+India,Service,48,2012,2011-2012
+S. Korea,Service,8,2012,2011-2012
+India,Service,9,2012,2011-2012
+Azerbaijan,Service,16,2012,2011-2012
+Sri Lanka,Service,4,2012,2011-2012
+France,Service,9,2012,2011-2012
+USA,Service,2.5,2012,2011-2012
+China,Service,6,2012,2011-2012
+USA,Service,2,2012,2011-2012
+China,Service,4,2012,2011-2012
+S. Korea,Service,2.5,2012,2011-2012
+Australia,Service,4,2012,2011-2012
+Eritrea,Service,2.5,2012,2011-2012
+Pakistan,Service,2.5,2012,2011-2012
+China,Service,6.8,2012,2011-2012
+USA,Service,3.4,2012,2011-2012
+Australia,Service,5,2012,2011-2012
+S. Korea,Service,2.5,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,10,2012,2011-2012
+UK,Service,2.5,2012,2011-2012
+China,Service,12.5,2012,2011-2012
+China,Service,12.6,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,10,2012,2011-2012
+UK,Service,9,2012,2011-2012
+India,Service,10,2012,2011-2012
+Netherlands,Service,2,2012,2011-2012
+China,Service,10,2012,2011-2012
+China,Service,5,2012,2011-2012
+Netherlands,Service,10,2012,2011-2012
+S. Korea,Service,7.4,2012,2011-2012
+S. Korea,Service,2,2012,2011-2012
+India,Service,12,2012,2011-2012
+USA,Service,2,2012,2011-2012
+Australia,Service,5,2012,2011-2012
+S. Korea,Service,8,2012,2011-2012
+USA,Service,9,2012,2011-2012
+Switzerland,Service,12.6,2012,2011-2012
+China,Service,9,2012,2011-2012
+Bangladesh,Service,12,2012,2011-2012
+China,Service,12,2012,2011-2012
+Bangladesh,Service,12,2012,2011-2012
+USA,Service,2.5,2012,2011-2012
+USA,Service,2.5,2012,2011-2012
+USA,Service,2,2012,2011-2012
+USA,Service,3,2012,2011-2012
+Japan,Service,7,2012,2011-2012
+Syria,Service,10,2012,2011-2012
+USA,Service,9,2012,2011-2012
+China,Service,7.6,2012,2011-2012
+S. Korea,Service,2,2012,2011-2012
+S. Korea,Tourism,6.4,2012,2011-2012
+USA,Tourism,30,2012,2011-2012
+UK,Tourism,10,2012,2011-2012
+Malaysia,Tourism,50,2012,2011-2012
+Japan,Tourism,1.9,2012,2011-2012
+Egypt,Tourism,2.1,2012,2011-2012
+India,Tourism,85.7,2012,2011-2012
+Malaysia,Tourism,2.5,2012,2011-2012
+Ukraine,Tourism,10,2012,2011-2012
+Germany,Tourism,2.5,2012,2011-2012
+S. Korea,Tourism,5,2012,2011-2012
+China,Tourism,10,2012,2011-2012
+France,Tourism,6.4,2012,2011-2012
+China,Tourism,20,2012,2011-2012
+Iran,Tourism,2.5,2012,2011-2012
+Pakistan,Tourism,4.8,2012,2011-2012
+France,Tourism,3,2012,2011-2012
+Italy,Tourism,3.1,2012,2011-2012
+China,Tourism,4,2012,2011-2012
+China,Tourism,6.8,2012,2011-2012
+China,Tourism,25,2012,2011-2012
+China,Tourism,14,2012,2011-2012
+S. Korea,Tourism,2.5,2012,2011-2012
+S. Korea,Tourism,5,2012,2011-2012
+USA,Tourism,10,2012,2011-2012
+S. Korea,Tourism,9,2012,2011-2012
+China,Tourism,8,2012,2011-2012
+S. Korea,Tourism,4,2012,2011-2012
+China,Tourism,5,2012,2011-2012
+Japan,Tourism,2.5,2012,2011-2012
+Japan,Tourism,12,2012,2011-2012
+Japan,Tourism,2.5,2012,2011-2012
+Israel,Tourism,4,2012,2011-2012
+China,Tourism,15,2012,2011-2012
+China,Tourism,12.6,2012,2011-2012
+China,Tourism,14,2012,2011-2012
+India,Tourism,140,2012,2011-2012
+USA,Tourism,9,2012,2011-2012
+India,Tourism,100,2012,2011-2012
+China,Tourism,4.4,2012,2011-2012
+USA,Tourism,12.6,2012,2011-2012
+Russia,Tourism,30,2012,2011-2012
+Japan,Tourism,1.8,2012,2011-2012
+Mexico,Tourism,10.8,2012,2011-2012
+China,Tourism,8,2012,2011-2012
+China,Tourism,7.5,2012,2011-2012
+USA,Tourism,9,2012,2011-2012
+Japan,Tourism,2.5,2012,2011-2012
+France,Tourism,5,2012,2011-2012
+China,Tourism,10,2012,2011-2012
+USA,Tourism,12,2012,2011-2012
+China,Tourism,2.5,2012,2011-2012
+UK,Tourism,5.6,2012,2011-2012
+Switzerland,Tourism,2.5,2012,2011-2012
+China,Tourism,2.5,2012,2011-2012
+Italy,Tourism,2.4,2012,2011-2012
+China,Tourism,13.2,2012,2011-2012
+France,Tourism,10,2012,2011-2012
+France,Tourism,8,2012,2011-2012
+China,Tourism,2.4,2012,2011-2012
+Switzerland,Tourism,20,2012,2011-2012
+S. Korea,Tourism,3,2012,2011-2012
+Italy,Tourism,48.1,2012,2011-2012
+Singapore,Tourism,10,2012,2011-2012
+UK,Agriculture and Forestry,3.2,2013,2012-2013
+China,Agriculture and Forestry,11.4,2013,2012-2013
+USA,Agriculture and Forestry,9.5,2013,2012-2013
+S. Korea,Agriculture and Forestry,9.5,2013,2012-2013
+Canada,Agriculture and Forestry,4,2013,2012-2013
+China,Agriculture and Forestry,13.5,2013,2012-2013
+Argentina,Agriculture and Forestry,8,2013,2012-2013
+China,Agriculture and Forestry,10,2013,2012-2013
+S. Korea,Agriculture and Forestry,4,2013,2012-2013
+Germany,Agriculture and Forestry,15,2013,2012-2013
+USA,Agriculture and Forestry,9.5,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+Canada,Agriculture and Forestry,20,2013,2012-2013
+Malaysia,Agriculture and Forestry,10,2013,2012-2013
+China,Agriculture and Forestry,25,2013,2012-2013
+Japan,Agriculture and Forestry,15,2013,2012-2013
+China,Agriculture and Forestry,35,2013,2012-2013
+Italy,Agriculture and Forestry,10,2013,2012-2013
+China,Agriculture and Forestry,15,2013,2012-2013
+China,Agriculture and Forestry,40,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,15,2013,2012-2013
+Denmark,Agriculture and Forestry,10,2013,2012-2013
+USA,Agriculture and Forestry,25,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+UAE,Agriculture and Forestry,300,2013,2012-2013
+India,Agriculture and Forestry,5.5,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+Slovenia,Agriculture and Forestry,30,2013,2012-2013
+Turkey,Agriculture and Forestry,30,2013,2012-2013
+S. Korea,Agriculture and Forestry,15,2013,2012-2013
+Denmark,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,35,2013,2012-2013
+Ukraine,Agriculture and Forestry,30,2013,2012-2013
+Italy,Agriculture and Forestry,25,2013,2012-2013
+Switzerland,Agriculture and Forestry,20,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+China,Agriculture and Forestry,30,2013,2012-2013
+UAE,Agriculture and Forestry,300,2013,2012-2013
+China,Construction,100,2013,2012-2013
+Spain,Energy,1980,2013,2012-2013
+China,Energy,2300,2013,2012-2013
+China,Energy,180,2013,2012-2013
+India,Energy,100,2013,2012-2013
+China,Energy,3082.2,2013,2012-2013
+Canada,Energy,1976,2013,2012-2013
+India,Manufacturing,49.4,2013,2012-2013
+India,Manufacturing,45,2013,2012-2013
+India,Manufacturing,12.4,2013,2012-2013
+India,Manufacturing,2.5,2013,2012-2013
+S. Korea,Manufacturing,45,2013,2012-2013
+China,Manufacturing,36,2013,2012-2013
+Japan,Manufacturing,10,2013,2012-2013
+India,Manufacturing,49,2013,2012-2013
+China,Manufacturing,20,2013,2012-2013
+India,Manufacturing,245,2013,2012-2013
+Switzerland,Manufacturing,30,2013,2012-2013
+China,Manufacturing,10,2013,2012-2013
+India,Manufacturing,10,2013,2012-2013
+Netherlands,Manufacturing,7,2013,2012-2013
+China,Manufacturing,42.9,2013,2012-2013
+India,Manufacturing,10,2013,2012-2013
+Netherlands,Manufacturing,9.6,2013,2012-2013
+India,Manufacturing,410,2013,2012-2013
+Japan,Manufacturing,300,2013,2012-2013
+UK,Manufacturing,10,2013,2012-2013
+China,Manufacturing,15,2013,2012-2013
+Netherlands,Manufacturing,40,2013,2012-2013
+China,Manufacturing,10,2013,2012-2013
+China,Manufacturing,30,2013,2012-2013
+Switzerland,Manufacturing,7.5,2013,2012-2013
+USA,Manufacturing,10,2013,2012-2013
+China,Manufacturing,12.5,2013,2012-2013
+China,Manufacturing,30,2013,2012-2013
+India,Manufacturing,533.8,2013,2012-2013
+China,Manufacturing,10,2013,2012-2013
+India,Manufacturing,29.7,2013,2012-2013
+China,Manufacturing,60,2013,2012-2013
+Netherlands,Manufacturing,10,2013,2012-2013
+China,Manufacturing,4000,2013,2012-2013
+India,Manufacturing,180,2013,2012-2013
+India,Manufacturing,150,2013,2012-2013
+China,Manufacturing,46,2013,2012-2013
+China,Manufacturing,25,2013,2012-2013
+China,Manufacturing,25,2013,2012-2013
+China,Manufacturing,17,2013,2012-2013
+China,Manufacturing,17,2013,2012-2013
+China,Manufacturing,17,2013,2012-2013
+India,Manufacturing,30,2013,2012-2013
+USA,Manufacturing,5,2013,2012-2013
+India,Manufacturing,20,2013,2012-2013
+China,Manufacturing,150,2013,2012-2013
+China,Manufacturing,10,2013,2012-2013
+China,Manufacturing,20,2013,2012-2013
+China,Manufacturing,10,2013,2012-2013
+India,Manufacturing,2230,2013,2012-2013
+India,Manufacturing,15,2013,2012-2013
+Canada,Manufacturing,8,2013,2012-2013
+Seychelles,Manufacturing,7600,2013,2012-2013
+China,Manufacturing,10,2013,2012-2013
+Singapore,Manufacturing,30,2013,2012-2013
+India,Manufacturing,20,2013,2012-2013
+India,Manufacturing,833.3,2013,2012-2013
+Japan,Manufacturing,0.8,2013,2012-2013
+Japan,Manufacturing,0.8,2013,2012-2013
+China,Manufacturing,35,2013,2012-2013
+Russia,Manufacturing,12.2,2013,2012-2013
+S. Korea,Manufacturing,10,2013,2012-2013
+S. Korea,Manufacturing,8.6,2013,2012-2013
+China,Manufacturing,10.1,2013,2012-2013
+UK,Manufacturing,16.1,2013,2012-2013
+China,Manufacturing,40,2013,2012-2013
+China,Manufacturing,30,2013,2012-2013
+Japan,Manufacturing,35,2013,2012-2013
+BritishVirginIsland,Manufacturing,4500,2013,2012-2013
+China,Manufacturing,45,2013,2012-2013
+S. Korea,Manufacturing,25,2013,2012-2013
+Sweden,Manufacturing,10,2013,2012-2013
+China,Manufacturing,30,2013,2012-2013
+Netherlands,Manufacturing,20.4,2013,2012-2013
+China,Manufacturing,25,2013,2012-2013
+UK,Manufacturing,6,2013,2012-2013
+Australia,Manufacturing,10,2013,2012-2013
+Denmark,Manufacturing,13.5,2013,2012-2013
+Denmark,Manufacturing,18,2013,2012-2013
+Denmark,Manufacturing,16,2013,2012-2013
+Denmark,Manufacturing,22.2,2013,2012-2013
+Denmark,Manufacturing,38,2013,2012-2013
+India,Manufacturing,460,2013,2012-2013
+USA,Manufacturing,310,2013,2012-2013
+China,Mines and Minerals,49,2013,2012-2013
+S. Korea,Mines and Minerals,20,2013,2012-2013
+India,Mines and Minerals,50,2013,2012-2013
+UAE,Mines and Minerals,500,2013,2012-2013
+India,Mines and Minerals,15,2013,2012-2013
+Singapore,Service,830,2013,2012-2013
+S. Korea,Service,5,2013,2012-2013
+Australia,Service,5,2013,2012-2013
+Philippines,Service,6,2013,2012-2013
+Afganistan,Service,2.5,2013,2012-2013
+S. Korea,Service,5.7,2013,2012-2013
+Australia,Service,2.5,2013,2012-2013
+Japan,Service,11.4,2013,2012-2013
+China,Service,12,2013,2012-2013
+China,Service,12,2013,2012-2013
+Australia,Service,4,2013,2012-2013
+Mauritius,Service,50,2013,2012-2013
+USA,Service,6,2013,2012-2013
+China,Service,48,2013,2012-2013
+Syria,Service,2.5,2013,2012-2013
+France,Service,6,2013,2012-2013
+China,Service,10,2013,2012-2013
+S. Korea,Service,2.5,2013,2012-2013
+India,Service,10,2013,2012-2013
+India,Service,20,2013,2012-2013
+Germany,Service,5,2013,2012-2013
+Singapore,Service,10,2013,2012-2013
+Philippines,Service,5,2013,2012-2013
+China,Service,25,2013,2012-2013
+USA,Service,20,2013,2012-2013
+China,Service,30,2013,2012-2013
+Afganistan,Service,2.5,2013,2012-2013
+UK,Service,4.4,2013,2012-2013
+China,Service,10,2013,2012-2013
+India,Service,10,2013,2012-2013
+UK,Service,15,2013,2012-2013
+China,Service,25,2013,2012-2013
+Turkey,Service,5,2013,2012-2013
+Japan,Service,10,2013,2012-2013
+UAE,Service,1700,2013,2012-2013
+S. Korea,Service,10,2013,2012-2013
+Netherlands,Service,629.4,2013,2012-2013
+China,Service,25,2013,2012-2013
+China,Service,25,2013,2012-2013
+India,Service,150,2013,2012-2013
+India,Service,20,2013,2012-2013
+India,Service,10,2013,2012-2013
+USA,Service,5,2013,2012-2013
+China,Service,1950,2013,2012-2013
+Japan,Service,10,2013,2012-2013
+Canada,Service,5,2013,2012-2013
+Yemen,Service,5,2013,2012-2013
+China,Service,25,2013,2012-2013
+India,Service,10,2013,2012-2013
+Germany,Service,10,2013,2012-2013
+Sweden,Service,5,2013,2012-2013
+Singapore,Service,10,2013,2012-2013
+India,Service,10,2013,2012-2013
+Syria,Service,10,2013,2012-2013
+USA,Service,10,2013,2012-2013
+Japan,Service,25,2013,2012-2013
+UK,Service,20,2013,2012-2013
+India,Service,800,2013,2012-2013
+India,Service,10,2013,2012-2013
+S. Korea,Service,10,2013,2012-2013
+Germany,Service,10,2013,2012-2013
+BritishVirginIsland,Service,1950,2013,2012-2013
+USA,Service,10,2013,2012-2013
+China,Service,30,2013,2012-2013
+India,Service,1500,2013,2012-2013
+Japan,Service,30,2013,2012-2013
+Netherlands,Service,16.3,2013,2012-2013
+India,Service,20,2013,2012-2013
+S. Korea,Service,5,2013,2012-2013
+Iran,Service,20,2013,2012-2013
+USA,Service,5,2013,2012-2013
+UK,Service,9,2013,2012-2013
+China,Service,30,2013,2012-2013
+NewZealand,Service,15,2013,2012-2013
+S. Korea,Service,45.5,2013,2012-2013
+China,Service,20,2013,2012-2013
+Germany,Service,20,2013,2012-2013
+USA,Service,15,2013,2012-2013
+Brazil,Service,10,2013,2012-2013
+USA,Service,10,2013,2012-2013
+Singapore,Service,250,2013,2012-2013
+Australia,Service,5,2013,2012-2013
+USA,Service,15,2013,2012-2013
+China,Service,35,2013,2012-2013
+China,Service,30,2013,2012-2013
+Bangladesh,Service,30,2013,2012-2013
+India,Service,6.5,2013,2012-2013
+Qatar,Service,570,2013,2012-2013
+India,Service,1000,2013,2012-2013
+Netherlands,Tourism,10,2013,2012-2013
+Spain,Tourism,4.5,2013,2012-2013
+China,Tourism,15,2013,2012-2013
+Spain,Tourism,8,2013,2012-2013
+Australia,Tourism,2.5,2013,2012-2013
+China,Tourism,2.5,2013,2012-2013
+NewZealand,Tourism,6,2013,2012-2013
+China,Tourism,2.5,2013,2012-2013
+China,Tourism,15,2013,2012-2013
+BritishVirginIsland,Tourism,2.4,2013,2012-2013
+India,Tourism,5,2013,2012-2013
+China,Tourism,2.5,2013,2012-2013
+UAE,Tourism,4.8,2013,2012-2013
+China,Tourism,15,2013,2012-2013
+S. Korea,Tourism,2.5,2013,2012-2013
+S. Korea,Tourism,5.6,2013,2012-2013
+China,Tourism,12,2013,2012-2013
+China,Tourism,12.5,2013,2012-2013
+Uzbekistan,Tourism,5,2013,2012-2013
+China,Tourism,5,2013,2012-2013
+China,Tourism,10,2013,2012-2013
+China,Tourism,6,2013,2012-2013
+China,Tourism,25,2013,2012-2013
+Switzerland,Tourism,5,2013,2012-2013
+China,Tourism,25,2013,2012-2013
+Switzerland,Tourism,271.3,2013,2012-2013
+Bangladesh,Tourism,5,2013,2012-2013
+Germany,Tourism,19,2013,2012-2013
+Netherlands,Tourism,70,2013,2012-2013
+China,Tourism,30,2013,2012-2013
+Bhutan,Tourism,5,2013,2012-2013
+China,Tourism,50,2013,2012-2013
+USA,Tourism,20,2013,2012-2013
+USA,Tourism,100,2013,2012-2013
+France,Tourism,10,2013,2012-2013
+Brazil,Tourism,15,2013,2012-2013
+USA,Tourism,2.5,2013,2012-2013
+USA,Tourism,15,2013,2012-2013
+Russia,Tourism,40,2013,2012-2013
+Colombia,Tourism,31.7,2013,2012-2013
+China,Tourism,10,2013,2012-2013
+China,Tourism,17,2013,2012-2013
+China,Tourism,5,2013,2012-2013
+Switzerland,Tourism,90,2013,2012-2013
+S. Korea,Tourism,5,2013,2012-2013
+India,Tourism,50,2013,2012-2013
+Malaysia,Tourism,20,2013,2012-2013
+China,Tourism,100,2013,2012-2013
+UK,Tourism,10,2013,2012-2013
+China,Tourism,100,2013,2012-2013
+S. Korea,Tourism,10,2013,2012-2013
+S. Korea,Tourism,20,2013,2012-2013
+France,Tourism,6,2013,2012-2013
+BritishVirginIsland,Tourism,1940,2013,2012-2013
+China,Tourism,170,2013,2012-2013
+Germany,Tourism,10,2013,2012-2013
+China,Tourism,30,2013,2012-2013
+Canada,Tourism,10,2013,2012-2013
+USA,Tourism,10,2013,2012-2013
+Russia,Tourism,10,2013,2012-2013
+UK,Tourism,10,2013,2012-2013
+S. Korea,Tourism,10,2013,2012-2013
+Australia,Tourism,20,2013,2012-2013
+Australia,Tourism,6,2013,2012-2013
+China,Tourism,35,2013,2012-2013
+China,Tourism,5,2013,2012-2013
+UAE,Tourism,10,2013,2012-2013
+USA,Tourism,5,2013,2012-2013
+USA,Tourism,15,2013,2012-2013
+China,Tourism,30,2013,2012-2013
+USA,Tourism,7.5,2013,2012-2013
+Italy,Tourism,15,2013,2012-2013
+China,Tourism,35,2013,2012-2013
+France,Tourism,6.2,2013,2012-2013
+France,Tourism,5,2013,2012-2013
+Cambodia,Tourism,5,2013,2012-2013
+China,Tourism,20,2013,2012-2013
+S. Korea,Tourism,5,2013,2012-2013
+Netherlands,Tourism,5,2013,2012-2013
+China,Tourism,35,2013,2012-2013
+China,Tourism,15,2013,2012-2013
+Belgium,Tourism,35,2013,2012-2013
+India,Tourism,50,2013,2012-2013
+Germany,Tourism,19.8,2013,2012-2013
+S. Korea,Tourism,5,2013,2012-2013
+China,Tourism,150,2013,2012-2013
+Australia,Tourism,5,2013,2012-2013
+Japan,Tourism,300,2013,2012-2013
+USA,Tourism,11.3,2013,2012-2013
+China,Agriculture and Forestry,35,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+China,Agriculture and Forestry,30,2014,2013-2014
+USA,Agriculture and Forestry,20,2014,2013-2014
+S. Korea,Agriculture and Forestry,10,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+Germany,Agriculture and Forestry,20,2014,2013-2014
+S. Africa,Agriculture and Forestry,10,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+USA,Agriculture and Forestry,10,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+UK,Agriculture and Forestry,25,2014,2013-2014
+USA,Agriculture and Forestry,20,2014,2013-2014
+China,Agriculture and Forestry,15,2014,2013-2014
+NewZealand,Agriculture and Forestry,5,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+Australia,Agriculture and Forestry,4,2014,2013-2014
+China,Agriculture and Forestry,20,2014,2013-2014
+BritishVirginIsland,Agriculture and Forestry,5,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+France,Agriculture and Forestry,15,2014,2013-2014
+Germany,Agriculture and Forestry,20,2014,2013-2014
+China,Agriculture and Forestry,20,2014,2013-2014
+China,Agriculture and Forestry,30,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+China,Agriculture and Forestry,35,2014,2013-2014
+France,Agriculture and Forestry,9.8,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+Finland,Agriculture and Forestry,10,2014,2013-2014
+Finland,Agriculture and Forestry,10,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+Japan,Agriculture and Forestry,5,2014,2013-2014
+S. Korea,Agriculture and Forestry,14,2014,2013-2014
+China,Agriculture and Forestry,5,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+China,Agriculture and Forestry,25,2014,2013-2014
+China,Agriculture and Forestry,17,2014,2013-2014
+China,Agriculture and Forestry,30,2014,2013-2014
+China,Agriculture and Forestry,29,2014,2013-2014
+S. Korea,Agriculture and Forestry,15,2014,2013-2014
+China,Agriculture and Forestry,10,2014,2013-2014
+USA,Agriculture and Forestry,20,2014,2013-2014
+India,Energy,5244.53,2014,2013-2014
+USA,Energy,10,2014,2013-2014
+India,Energy,100,2014,2013-2014
+Japan,Energy,122.5,2014,2013-2014
+India,Energy,600,2014,2013-2014
+China,Energy,4080,2014,2013-2014
+China,Energy,126,2014,2013-2014
+CookIsland,Energy,666.66,2014,2013-2014
+USA,Energy,206.97,2014,2013-2014
+China,Energy,30,2014,2013-2014
+Japan,Manufacturing,5,2014,2013-2014
+BritishVirginIsland,Manufacturing,240,2014,2013-2014
+China,Manufacturing,10,2014,2013-2014
+Italy,Manufacturing,5,2014,2013-2014
+China,Manufacturing,35,2014,2013-2014
+Pakistan,Manufacturing,9,2014,2013-2014
+China,Manufacturing,200,2014,2013-2014
+India,Manufacturing,30,2014,2013-2014
+USA,Manufacturing,5,2014,2013-2014
+China,Manufacturing,30,2014,2013-2014
+China,Manufacturing,25,2014,2013-2014
+India,Manufacturing,49,2014,2013-2014
+Singapore,Manufacturing,150,2014,2013-2014
+Tajikistan,Manufacturing,20,2014,2013-2014
+USA,Manufacturing,26,2014,2013-2014
+USA,Manufacturing,5.3,2014,2013-2014
+China,Manufacturing,35,2014,2013-2014
+China,Manufacturing,70,2014,2013-2014
+USA,Manufacturing,20,2014,2013-2014
+China,Manufacturing,90,2014,2013-2014
+S. Korea,Manufacturing,10,2014,2013-2014
+Bahrain,Manufacturing,15.66,2014,2013-2014
+India,Manufacturing,240,2014,2013-2014
+Japan,Manufacturing,30,2014,2013-2014
+China,Manufacturing,30,2014,2013-2014
+Azerbaijan,Manufacturing,15,2014,2013-2014
+China,Manufacturing,25,2014,2013-2014
+Belgium,Manufacturing,25,2014,2013-2014
+China,Manufacturing,15,2014,2013-2014
+China,Manufacturing,20,2014,2013-2014
+China,Manufacturing,30,2014,2013-2014
+China,Manufacturing,40,2014,2013-2014
+China,Manufacturing,9.5,2014,2013-2014
+China,Manufacturing,25,2014,2013-2014
+France,Manufacturing,5,2014,2013-2014
+France,Manufacturing,5,2014,2013-2014
+India,Manufacturing,66.24,2014,2013-2014
+China,Manufacturing,5,2014,2013-2014
+China,Manufacturing,25,2014,2013-2014
+China,Manufacturing,25,2014,2013-2014
+Singapore,Manufacturing,44.1,2014,2013-2014
+Lithuania,Manufacturing,5,2014,2013-2014
+China,Manufacturing,77.44,2014,2013-2014
+Japan,Manufacturing,5,2014,2013-2014
+India,Mines and Minerals,56.25,2014,2013-2014
+India,Mines and Minerals,12,2014,2013-2014
+India,Mines and Minerals,4.2,2014,2013-2014
+India,Mines and Minerals,4.48,2014,2013-2014
+India,Mines and Minerals,4.48,2014,2013-2014
+China,Mines and Minerals,30,2014,2013-2014
+China,Mines and Minerals,50,2014,2013-2014
+China,Mines and Minerals,50,2014,2013-2014
+China,Mines and Minerals,30,2014,2013-2014
+China,Mines and Minerals,20,2014,2013-2014
+China,Mines and Minerals,20,2014,2013-2014
+Japan,Service,20,2014,2013-2014
+China,Service,20.5,2014,2013-2014
+Malaysia,Service,5,2014,2013-2014
+India,Service,5,2014,2013-2014
+S. Korea,Service,6,2014,2013-2014
+Mauritius,Service,5,2014,2013-2014
+S. Korea,Service,5,2014,2013-2014
+India,Service,9,2014,2013-2014
+Turkey,Service,15,2014,2013-2014
+China,Service,25,2014,2013-2014
+USA,Service,5,2014,2013-2014
+Bangladesh,Service,25,2014,2013-2014
+China,Service,5,2014,2013-2014
+India,Service,12.65,2014,2013-2014
+Pakistan,Service,15,2014,2013-2014
+Israel,Service,24.5,2014,2013-2014
+China,Service,10,2014,2013-2014
+China,Service,35,2014,2013-2014
+China,Service,10,2014,2013-2014
+Norway,Service,5,2014,2013-2014
+S. Korea,Service,1800,2014,2013-2014
+Japan,Service,9.9,2014,2013-2014
+Japan,Service,15,2014,2013-2014
+China,Service,5,2014,2013-2014
+India,Service,30,2014,2013-2014
+China,Service,35,2014,2013-2014
+USA,Service,30,2014,2013-2014
+S. Korea,Service,15,2014,2013-2014
+China,Service,35,2014,2013-2014
+Cyprus,Service,5.5,2014,2013-2014
+UK,Service,15,2014,2013-2014
+China,Service,15,2014,2013-2014
+UK,Service,5.1,2014,2013-2014
+Ukraine,Service,5,2014,2013-2014
+UK,Service,5,2014,2013-2014
+China,Service,35,2014,2013-2014
+Japan,Service,10,2014,2013-2014
+Germany,Service,28.5,2014,2013-2014
+China,Service,5,2014,2013-2014
+Kazakhstan,Service,5,2014,2013-2014
+China,Service,35,2014,2013-2014
+Malaysia,Service,5,2014,2013-2014
+China,Service,1000,2014,2013-2014
+S. Korea,Service,10,2014,2013-2014
+Bangladesh,Service,25,2014,2013-2014
+S. Korea,Service,10,2014,2013-2014
+China,Service,35,2014,2013-2014
+India,Service,5,2014,2013-2014
+Netherlands,Service,5,2014,2013-2014
+S. Korea,Service,10,2014,2013-2014
+China,Service,20,2014,2013-2014
+France,Service,5,2014,2013-2014
+UAE,Service,5.25,2014,2013-2014
+Japan,Service,10,2014,2013-2014
+China,Service,10,2014,2013-2014
+China,Service,5,2014,2013-2014
+Malaysia,Service,9.5,2014,2013-2014
+China,Service,25,2014,2013-2014
+China,Service,25,2014,2013-2014
+USA,Service,8.34,2014,2013-2014
+USA,Service,5,2014,2013-2014
+S. Korea,Service,10,2014,2013-2014
+China,Service,20,2014,2013-2014
+China,Service,25,2014,2013-2014
+China,Service,25,2014,2013-2014
+China,Service,30,2014,2013-2014
+China,Service,25,2014,2013-2014
+Switzerland,Service,25,2014,2013-2014
+UK,Service,10,2014,2013-2014
+Philippines,Service,5,2014,2013-2014
+UK,Service,10,2014,2013-2014
+Malaysia,Service,10,2014,2013-2014
+UK,Service,15,2014,2013-2014
+Pakistan,Service,10,2014,2013-2014
+China,Service,25,2014,2013-2014
+China,Service,25,2014,2013-2014
+S. Korea,Service,5,2014,2013-2014
+USA,Service,35,2014,2013-2014
+NewZealand,Service,10,2014,2013-2014
+Denmark,Service,5,2014,2013-2014
+USA,Service,15,2014,2013-2014
+Australia,Service,5,2014,2013-2014
+S. Korea,Service,40,2014,2013-2014
+China,Service,25,2014,2013-2014
+China,Service,20,2014,2013-2014
+China,Service,25,2014,2013-2014
+USA,Service,5,2014,2013-2014
+China,Service,22.2,2014,2013-2014
+S. Korea,Service,10,2014,2013-2014
+China,Service,21,2014,2013-2014
+UK,Service,5.04,2014,2013-2014
+S. Korea,Service,10,2014,2013-2014
+UK,Service,5.04,2014,2013-2014
+Bangladesh,Service,52.53,2014,2013-2014
+China,Service,25,2014,2013-2014
+India,Service,26,2014,2013-2014
+China,Service,25,2014,2013-2014
+USA,Service,10,2014,2013-2014
+USA,Service,5,2014,2013-2014
+USA,Service,5,2014,2013-2014
+India,Service,5,2014,2013-2014
+Germany,Service,94.2,2014,2013-2014
+India,Service,5,2014,2013-2014
+India,Service,16,2014,2013-2014
+USA,Service,5,2014,2013-2014
+China,Service,25,2014,2013-2014
+Mexico,Tourism,5,2014,2013-2014
+China,Tourism,59,2014,2013-2014
+Australia,Tourism,24.5,2014,2013-2014
+S. Africa,Tourism,10,2014,2013-2014
+Italy,Tourism,22.95,2014,2013-2014
+France,Tourism,5.6,2014,2013-2014
+UK,Tourism,20,2014,2013-2014
+Russia,Tourism,20,2014,2013-2014
+Japan,Tourism,60,2014,2013-2014
+Slovakia,Tourism,5,2014,2013-2014
+Turkey,Tourism,15,2014,2013-2014
+S. Korea,Tourism,10,2014,2013-2014
+China,Tourism,35,2014,2013-2014
+Argentina,Tourism,10.01,2014,2013-2014
+Finland,Tourism,5,2014,2013-2014
+Czech Republic,Tourism,5.39,2014,2013-2014
+Finland,Tourism,6,2014,2013-2014
+Iran,Tourism,5,2014,2013-2014
+Syria,Tourism,11,2014,2013-2014
+Japan,Tourism,5,2014,2013-2014
+Qatar,Tourism,9.7,2014,2013-2014
+USA,Tourism,5.3,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+China,Tourism,50,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+China,Tourism,7,2014,2013-2014
+S. Korea,Tourism,5,2014,2013-2014
+China,Tourism,5.5,2014,2013-2014
+China,Tourism,40,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+China,Tourism,20,2014,2013-2014
+Syria,Tourism,5,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+France,Tourism,5,2014,2013-2014
+UK,Tourism,8.42,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+S. Korea,Tourism,5,2014,2013-2014
+Russia,Tourism,10,2014,2013-2014
+USA,Tourism,1.8,2014,2013-2014
+USA,Tourism,5,2014,2013-2014
+UK,Tourism,25,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+China,Tourism,25,2014,2013-2014
+S. Korea,Tourism,15,2014,2013-2014
+China,Tourism,20,2014,2013-2014
+Japan,Tourism,5,2014,2013-2014
+USA,Tourism,7.5,2014,2013-2014
+Italy,Tourism,5,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+USA,Tourism,5,2014,2013-2014
+Malaysia,Tourism,25,2014,2013-2014
+Australia,Tourism,10,2014,2013-2014
+Spain,Tourism,10,2014,2013-2014
+USA,Tourism,15,2014,2013-2014
+China,Tourism,45,2014,2013-2014
+China,Tourism,30,2014,2013-2014
+China,Tourism,12.5,2014,2013-2014
+China,Tourism,25,2014,2013-2014
+China,Tourism,40,2014,2013-2014
+India,Tourism,16,2014,2013-2014
+Bangladesh,Tourism,5,2014,2013-2014
+Ireland,Tourism,15,2014,2013-2014
+S. Korea,Tourism,5,2014,2013-2014
+Bangladesh,Tourism,5,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+China,Tourism,10,2014,2013-2014
+Malaysia,Tourism,20,2014,2013-2014
+China,Tourism,30,2014,2013-2014
+Philippines,Tourism,20,2014,2013-2014
+Japan,Tourism,15,2014,2013-2014
+Bangladesh,Tourism,20,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+Malaysia,Tourism,30,2014,2013-2014
+Russia,Tourism,15,2014,2013-2014
+Singapore,Tourism,23.4,2014,2013-2014
+S. Korea,Tourism,10,2014,2013-2014
+USA,Tourism,25,2014,2013-2014
+Japan,Tourism,5,2014,2013-2014
+China,Tourism,25,2014,2013-2014
+Malaysia,Tourism,20,2014,2013-2014
+China,Tourism,40,2014,2013-2014
+Switzerland,Tourism,5,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+Belarus,Tourism,5,2014,2013-2014
+China,Tourism,5,2014,2013-2014
+China,Agriculture and Forestry,25,2015,2014-2015
+USA,Agriculture and Forestry,20,2015,2014-2015
+Uzbekistan,Agriculture and Forestry,30,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+Japan,Agriculture and Forestry,5,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+China,Agriculture and Forestry,33.5,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+S. Korea,Agriculture and Forestry,10,2015,2014-2015
+China,Agriculture and Forestry,30,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+Russia,Agriculture and Forestry,10,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+France,Agriculture and Forestry,5.88,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+China,Agriculture and Forestry,35,2015,2014-2015
+Australia,Agriculture and Forestry,5,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+China,Agriculture and Forestry,30,2015,2014-2015
+USA,Agriculture and Forestry,5,2015,2014-2015
+Japan,Agriculture and Forestry,10,2015,2014-2015
+Canada,Agriculture and Forestry,20,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+Russia,Agriculture and Forestry,30,2015,2014-2015
+Singapore,Agriculture and Forestry,20.5,2015,2014-2015
+France,Agriculture and Forestry,30,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+BritishVirginIsland,Agriculture and Forestry,25,2015,2014-2015
+Netherlands,Agriculture and Forestry,5,2015,2014-2015
+China,Agriculture and Forestry,25,2015,2014-2015
+China,Agriculture and Forestry,10.5,2015,2014-2015
+NewZealand,Agriculture and Forestry,10,2015,2014-2015
+Spain,Agriculture and Forestry,40,2015,2014-2015
+Canada,Agriculture and Forestry,5.5,2015,2014-2015
+S. Korea,Agriculture and Forestry,10,2015,2014-2015
+Norway,Agriculture and Forestry,5,2015,2014-2015
+NewZealand,Agriculture and Forestry,5,2015,2014-2015
+S. Korea,Agriculture and Forestry,10,2015,2014-2015
+S. Korea,Agriculture and Forestry,5,2015,2014-2015
+China,Construction,100,2015,2014-2015
+India,Energy,33685.28,2015,2014-2015
+S. Korea,Energy,24,2015,2014-2015
+India,Energy,47.5,2015,2014-2015
+China,Energy,20240,2015,2014-2015
+Finland,Energy,290.33,2015,2014-2015
+India,Manufacturing,14.05,2015,2014-2015
+India,Manufacturing,30,2015,2014-2015
+India,Manufacturing,9.8,2015,2014-2015
+USA,Manufacturing,5,2015,2014-2015
+Japan,Manufacturing,5,2015,2014-2015
+S. Korea,Manufacturing,33.6,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+Ukraine,Manufacturing,5,2015,2014-2015
+India,Manufacturing,10,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+China,Manufacturing,29,2015,2014-2015
+India,Manufacturing,111.16,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+China,Manufacturing,15.05,2015,2014-2015
+S. Korea,Manufacturing,20,2015,2014-2015
+China,Manufacturing,15,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+UAE,Manufacturing,24,2015,2014-2015
+Russia,Manufacturing,15,2015,2014-2015
+Netherlands,Manufacturing,9,2015,2014-2015
+India,Manufacturing,10,2015,2014-2015
+Swaziland,Manufacturing,45,2015,2014-2015
+Singapore,Manufacturing,35,2015,2014-2015
+Turkey,Manufacturing,20,2015,2014-2015
+Turkey,Manufacturing,20,2015,2014-2015
+Japan,Manufacturing,20,2015,2014-2015
+China,Manufacturing,44.37,2015,2014-2015
+China,Manufacturing,6,2015,2014-2015
+UK,Manufacturing,10,2015,2014-2015
+Japan,Manufacturing,100,2015,2014-2015
+Italy,Manufacturing,10,2015,2014-2015
+Japan,Manufacturing,10,2015,2014-2015
+Japan,Manufacturing,10,2015,2014-2015
+Netherlands,Manufacturing,11.36,2015,2014-2015
+Canada,Manufacturing,5,2015,2014-2015
+China,Manufacturing,550,2015,2014-2015
+S. Korea,Manufacturing,10,2015,2014-2015
+NewZealand,Manufacturing,15.2,2015,2014-2015
+India,Manufacturing,10,2015,2014-2015
+India,Manufacturing,5,2015,2014-2015
+China,Manufacturing,40,2015,2014-2015
+China,Manufacturing,120,2015,2014-2015
+India,Manufacturing,10,2015,2014-2015
+China,Manufacturing,30,2015,2014-2015
+USA,Manufacturing,20,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+Switzerland,Manufacturing,7.5,2015,2014-2015
+China,Manufacturing,28,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+China,Manufacturing,25,2015,2014-2015
+Mauritius,Manufacturing,8,2015,2014-2015
+China,Manufacturing,42.63,2015,2014-2015
+France,Manufacturing,5,2015,2014-2015
+China,Manufacturing,120,2015,2014-2015
+USA,Manufacturing,20,2015,2014-2015
+Germany,Manufacturing,5,2015,2014-2015
+India,Manufacturing,5,2015,2014-2015
+China,Manufacturing,15,2015,2014-2015
+India,Mines and Minerals,10,2015,2014-2015
+China,Mines and Minerals,30,2015,2014-2015
+India,Mines and Minerals,10,2015,2014-2015
+China,Mines and Minerals,40,2015,2014-2015
+China,Mines and Minerals,50,2015,2014-2015
+India,Mines and Minerals,50,2015,2014-2015
+India,Service,311.85,2015,2014-2015
+UK,Service,9.38,2015,2014-2015
+UK,Service,5,2015,2014-2015
+China,Service,25,2015,2014-2015
+Malaysia,Service,10,2015,2014-2015
+USA,Service,8.86,2015,2014-2015
+Germany,Service,20,2015,2014-2015
+UK,Service,10,2015,2014-2015
+China,Service,20,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,12.5,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,10,2015,2014-2015
+Denmark,Service,69.99,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+USA,Service,10,2015,2014-2015
+India,Service,14,2015,2014-2015
+Turkey,Service,10,2015,2014-2015
+USA,Service,20,2015,2014-2015
+China,Service,30,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,20,2015,2014-2015
+China,Service,25,2015,2014-2015
+Pakistan,Service,35,2015,2014-2015
+USA,Service,5,2015,2014-2015
+Netherlands,Service,7.86,2015,2014-2015
+USA,Service,20,2015,2014-2015
+China,Service,10,2015,2014-2015
+S. Africa,Service,5,2015,2014-2015
+China,Service,25,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,5,2015,2014-2015
+Turkey,Service,1000,2015,2014-2015
+China,Service,25,2015,2014-2015
+Netherlands,Service,5,2015,2014-2015
+USA,Service,10,2015,2014-2015
+China,Service,10,2015,2014-2015
+Netherlands,Service,3,2015,2014-2015
+China,Service,30,2015,2014-2015
+Swaziland,Service,100,2015,2014-2015
+China,Service,15,2015,2014-2015
+China,Service,25,2015,2014-2015
+USA,Service,5,2015,2014-2015
+China,Service,5,2015,2014-2015
+China,Service,20,2015,2014-2015
+India,Service,35,2015,2014-2015
+China,Service,25,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+Russia,Service,25,2015,2014-2015
+Switzerland,Service,37.06,2015,2014-2015
+China,Service,15,2015,2014-2015
+UK,Service,8.2,2015,2014-2015
+USA,Service,7,2015,2014-2015
+USA,Service,215,2015,2014-2015
+Bangladesh,Service,5.1,2015,2014-2015
+China,Service,25,2015,2014-2015
+S. Korea,Service,6,2015,2014-2015
+USA,Service,5,2015,2014-2015
+India,Service,25.5,2015,2014-2015
+Malaysia,Service,10,2015,2014-2015
+BritishVirginIsland,Service,2008.44,2015,2014-2015
+USA,Service,5,2015,2014-2015
+India,Service,50,2015,2014-2015
+China,Service,7.7,2015,2014-2015
+China,Service,25,2015,2014-2015
+Japan,Service,10,2015,2014-2015
+China,Service,24.01,2015,2014-2015
+China,Service,45,2015,2014-2015
+Netherlands,Service,5,2015,2014-2015
+China,Service,0,2015,2014-2015
+China,Service,25,2015,2014-2015
+USA,Service,5,2015,2014-2015
+USA,Service,10,2015,2014-2015
+China,Service,25,2015,2014-2015
+S. Korea,Service,10,2015,2014-2015
+China,Service,15,2015,2014-2015
+Norway,Service,10,2015,2014-2015
+USA,Service,10,2015,2014-2015
+USA,Service,10,2015,2014-2015
+China,Service,35,2015,2014-2015
+China,Service,34.8,2015,2014-2015
+China,Service,35,2015,2014-2015
+China,Service,10,2015,2014-2015
+S. Korea,Service,15,2015,2014-2015
+China,Service,25,2015,2014-2015
+Germany,Service,20,2015,2014-2015
+USA,Service,5,2015,2014-2015
+USA,Service,5,2015,2014-2015
+China,Service,5,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,7,2015,2014-2015
+Iran,Service,10,2015,2014-2015
+USA,Service,5,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+S. Korea,Service,10,2015,2014-2015
+China,Service,30,2015,2014-2015
+Israel,Service,5,2015,2014-2015
+S. Korea,Service,15,2015,2014-2015
+Japan,Service,5,2015,2014-2015
+China,Service,20,2015,2014-2015
+Malaysia,Service,5,2015,2014-2015
+China,Service,25,2015,2014-2015
+Pakistan,Service,10,2015,2014-2015
+Australia,Service,10,2015,2014-2015
+China,Service,20,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+Turkey,Service,20,2015,2014-2015
+China,Service,5,2015,2014-2015
+USA,Service,10,2015,2014-2015
+China,Service,25,2015,2014-2015
+Germany,Service,5,2015,2014-2015
+China,Service,25,2015,2014-2015
+Japan,Service,50,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+USA,Service,10,2015,2014-2015
+S. Korea,Service,5,2015,2014-2015
+Bangladesh,Service,10,2015,2014-2015
+India,Service,40,2015,2014-2015
+China,Service,9.5,2015,2014-2015
+China,Service,9.5,2015,2014-2015
+China,Service,25,2015,2014-2015
+China,Service,40,2015,2014-2015
+NewZealand,Service,10,2015,2014-2015
+S. Korea,Tourism,5,2015,2014-2015
+India,Tourism,1,2015,2014-2015
+Bangladesh,Tourism,15,2015,2014-2015
+France,Tourism,15,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+Belgium,Tourism,9,2015,2014-2015
+Malaysia,Tourism,5,2015,2014-2015
+USA,Tourism,5,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+Jordan,Tourism,12,2015,2014-2015
+UK,Tourism,40,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+France,Tourism,5,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+Russia,Tourism,5,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+Italy,Tourism,5,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+USA,Tourism,5,2015,2014-2015
+Bangladesh,Tourism,6.75,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+China,Tourism,20,2015,2014-2015
+Belgium,Tourism,46.8,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+Syria,Tourism,5,2015,2014-2015
+China,Tourism,7.5,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+UK,Tourism,20,2015,2014-2015
+Japan,Tourism,5,2015,2014-2015
+China,Tourism,100,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+S. Korea,Tourism,5,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+Australia,Tourism,10,2015,2014-2015
+Australia,Tourism,10,2015,2014-2015
+China,Tourism,40,2015,2014-2015
+UK,Tourism,5,2015,2014-2015
+Ukraine,Tourism,25,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+Denmark,Tourism,35,2015,2014-2015
+Russia,Tourism,20,2015,2014-2015
+NewZealand,Tourism,5,2015,2014-2015
+France,Tourism,5,2015,2014-2015
+China,Tourism,10.6,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+BritishVirginIsland,Tourism,900,2015,2014-2015
+Tajikistan,Tourism,15,2015,2014-2015
+China,Tourism,35,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+China,Tourism,20,2015,2014-2015
+S. Korea,Tourism,10,2015,2014-2015
+China,Tourism,9,2015,2014-2015
+Bangladesh,Tourism,5,2015,2014-2015
+Spain,Tourism,10,2015,2014-2015
+China,Tourism,20,2015,2014-2015
+S. Korea,Tourism,15,2015,2014-2015
+China,Tourism,12.5,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+Bangladesh,Tourism,20,2015,2014-2015
+UK,Tourism,1125,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+China,Tourism,200,2015,2014-2015
+India,Tourism,10,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+USA,Tourism,78.13,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+USA,Tourism,10,2015,2014-2015
+China,Tourism,98,2015,2014-2015
+India,Tourism,10,2015,2014-2015
+S. Korea,Tourism,5,2015,2014-2015
+S. Korea,Tourism,10,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+China,Tourism,20,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+Canada,Tourism,15,2015,2014-2015
+Bangladesh,Tourism,20,2015,2014-2015
+China,Tourism,7.2,2015,2014-2015
+USA,Tourism,10,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+UK,Tourism,5,2015,2014-2015
+Bangladesh,Tourism,20,2015,2014-2015
+Swaziland,Tourism,15,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+Australia,Tourism,5,2015,2014-2015
+S. Korea,Tourism,30,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+Pakistan,Tourism,5,2015,2014-2015
+USA,Tourism,5,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+Australia,Tourism,5,2015,2014-2015
+USA,Tourism,20,2015,2014-2015
+France,Tourism,5,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+S. Korea,Tourism,15,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+Indonesia,Tourism,35,2015,2014-2015
+Chile,Tourism,30,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+Syria,Tourism,5,2015,2014-2015
+Bangladesh,Tourism,15,2015,2014-2015
+UK,Tourism,10,2015,2014-2015
+Germany,Tourism,30,2015,2014-2015
+Turkey,Tourism,6,2015,2014-2015
+Japan,Tourism,5,2015,2014-2015
+China,Tourism,20,2015,2014-2015
+Japan,Tourism,5,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+S. Korea,Tourism,20,2015,2014-2015
+China,Tourism,5,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+China,Tourism,15,2015,2014-2015
+Bangladesh,Tourism,5,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+S. Korea,Tourism,5,2015,2014-2015
+China,Tourism,35,2015,2014-2015
+China,Tourism,25,2015,2014-2015
+China,Tourism,10,2015,2014-2015
+USA,Tourism,13.5,2015,2014-2015
+S. Korea,Tourism,5,2015,2014-2015
+S. Korea,Tourism,10,2015,2014-2015
+China,Tourism,30,2015,2014-2015
+S. Korea,Agriculture and Forestry,10,2016,2015-2016
+USA,Agriculture and Forestry,10,2016,2015-2016
+USA,Agriculture and Forestry,10,2016,2015-2016
+UK,Agriculture and Forestry,8,2016,2015-2016
+S. Korea,Agriculture and Forestry,10,2016,2015-2016
+China,Agriculture and Forestry,25,2016,2015-2016
+S. Korea,Agriculture and Forestry,5,2016,2015-2016
+S. Korea,Agriculture and Forestry,5,2016,2015-2016
+S. Korea,Agriculture and Forestry,10,2016,2015-2016
+USA,Agriculture and Forestry,10,2016,2015-2016
+Japan,Agriculture and Forestry,10,2016,2015-2016
+France,Agriculture and Forestry,6.8,2016,2015-2016
+USA,Agriculture and Forestry,5,2016,2015-2016
+Canada,Agriculture and Forestry,15,2016,2015-2016
+Belgium,Agriculture and Forestry,10,2016,2015-2016
+India,Agriculture and Forestry,5,2016,2015-2016
+S. Korea,Agriculture and Forestry,5,2016,2015-2016
+S. Korea,Agriculture and Forestry,18,2016,2015-2016
+China,Agriculture and Forestry,100,2016,2015-2016
+Syria,Agriculture and Forestry,5,2016,2015-2016
+Norway,Agriculture and Forestry,9.5,2016,2015-2016
+S. Korea,Agriculture and Forestry,5,2016,2015-2016
+USA,Construction,10,2016,2015-2016
+Switzerland,Energy,617.13,2016,2015-2016
+Switzerland,Energy,1200,2016,2015-2016
+China,Energy,10,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+USA,Manufacturing,10,2016,2015-2016
+S. Korea,Manufacturing,5,2016,2015-2016
+India,Manufacturing,5.8,2016,2015-2016
+S. Korea,Manufacturing,10,2016,2015-2016
+China,Manufacturing,5.85,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+India,Manufacturing,150,2016,2015-2016
+S. Korea,Manufacturing,5,2016,2015-2016
+Japan,Manufacturing,10,2016,2015-2016
+China,Manufacturing,50,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+Pakistan,Manufacturing,3.26,2016,2015-2016
+USA,Manufacturing,332.5,2016,2015-2016
+India,Manufacturing,10.56,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+India,Manufacturing,7.5,2016,2015-2016
+India,Manufacturing,5.25,2016,2015-2016
+Bangladesh,Manufacturing,5,2016,2015-2016
+Mauritius,Manufacturing,406.7,2016,2015-2016
+India,Manufacturing,5,2016,2015-2016
+India,Manufacturing,5,2016,2015-2016
+China,Manufacturing,45.67,2016,2015-2016
+China,Manufacturing,30,2016,2015-2016
+Sweden,Manufacturing,5,2016,2015-2016
+Japan,Manufacturing,10,2016,2015-2016
+China,Manufacturing,10,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+India,Manufacturing,20,2016,2015-2016
+USA,Manufacturing,10,2016,2015-2016
+China,Manufacturing,10,2016,2015-2016
+India,Manufacturing,14.21,2016,2015-2016
+Spain,Manufacturing,18,2016,2015-2016
+China,Manufacturing,46.44,2016,2015-2016
+China,Manufacturing,1485,2016,2015-2016
+China,Manufacturing,30,2016,2015-2016
+China,Manufacturing,15,2016,2015-2016
+Japan,Manufacturing,5,2016,2015-2016
+USA,Manufacturing,5,2016,2015-2016
+China,Manufacturing,90,2016,2015-2016
+USA,Manufacturing,13.82,2016,2015-2016
+USA,Manufacturing,8,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+USA,Manufacturing,20,2016,2015-2016
+China,Manufacturing,9,2016,2015-2016
+China,Manufacturing,30,2016,2015-2016
+India,Manufacturing,5.39,2016,2015-2016
+Spain,Manufacturing,18,2016,2015-2016
+China,Manufacturing,46.44,2016,2015-2016
+China,Manufacturing,1485,2016,2015-2016
+China,Manufacturing,30,2016,2015-2016
+China,Manufacturing,15,2016,2015-2016
+Japan,Manufacturing,5,2016,2015-2016
+USA,Manufacturing,5,2016,2015-2016
+China,Manufacturing,90,2016,2015-2016
+USA,Manufacturing,13.82,2016,2015-2016
+USA,Manufacturing,8,2016,2015-2016
+China,Manufacturing,25,2016,2015-2016
+USA,Manufacturing,20,2016,2015-2016
+China,Manufacturing,9,2016,2015-2016
+China,Manufacturing,30,2016,2015-2016
+India,Manufacturing,5.39,2016,2015-2016
+China,Service,40,2016,2015-2016
+USA,Service,5,2016,2015-2016
+India,Service,49.5,2016,2015-2016
+Japan,Service,34,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+Greece,Service,5,2016,2015-2016
+China,Service,40,2016,2015-2016
+China,Service,26,2016,2015-2016
+India,Service,92.2,2016,2015-2016
+Russia,Service,10,2016,2015-2016
+India,Service,225,2016,2015-2016
+Japan,Service,10,2016,2015-2016
+USA,Service,5,2016,2015-2016
+China,Service,10,2016,2015-2016
+China,Service,15,2016,2015-2016
+China,Service,5,2016,2015-2016
+India,Service,100,2016,2015-2016
+India,Service,1000,2016,2015-2016
+NewZealand,Service,10,2016,2015-2016
+USA,Service,10.2,2016,2015-2016
+China,Service,10,2016,2015-2016
+USA,Service,5,2016,2015-2016
+China,Service,25,2016,2015-2016
+China,Service,30,2016,2015-2016
+India,Service,80,2016,2015-2016
+India,Service,121,2016,2015-2016
+China,Service,20,2016,2015-2016
+Japan,Service,5,2016,2015-2016
+China,Service,10,2016,2015-2016
+China,Service,9,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,9,2016,2015-2016
+Japan,Service,5,2016,2015-2016
+China,Service,5,2016,2015-2016
+USA,Service,5,2016,2015-2016
+Sri Lanka,Service,10,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,9,2016,2015-2016
+China,Service,30,2016,2015-2016
+USA,Service,5,2016,2015-2016
+UK,Service,10,2016,2015-2016
+China,Service,5,2016,2015-2016
+USA,Service,5,2016,2015-2016
+China,Service,25,2016,2015-2016
+Pakistan,Service,10.5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,20,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+USA,Service,10,2016,2015-2016
+S. Korea,Service,20,2016,2015-2016
+USA,Service,5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,25,2016,2015-2016
+UK,Service,970.18,2016,2015-2016
+China,Service,10,2016,2015-2016
+China,Service,25,2016,2015-2016
+Netherlands,Service,5,2016,2015-2016
+China,Service,25,2016,2015-2016
+USA,Service,5,2016,2015-2016
+China,Service,34.3,2016,2015-2016
+S. Korea,Service,10,2016,2015-2016
+Singapore,Service,480,2016,2015-2016
+Japan,Service,29.4,2016,2015-2016
+S. Korea,Service,5.94,2016,2015-2016
+S. Korea,Service,8.94,2016,2015-2016
+S. Korea,Service,5.94,2016,2015-2016
+S. Korea,Service,3.94,2016,2015-2016
+S. Korea,Service,3.94,2016,2015-2016
+S. Korea,Service,3.14,2016,2015-2016
+S. Korea,Service,4.94,2016,2015-2016
+S. Korea,Service,3.94,2016,2015-2016
+S. Korea,Service,3.44,2016,2015-2016
+S. Korea,Service,3.44,2016,2015-2016
+China,Service,5,2016,2015-2016
+Netherlands,Service,7.5,2016,2015-2016
+UK,Service,10.5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+USA,Service,10,2016,2015-2016
+S. Korea,Service,15,2016,2015-2016
+China,Service,30,2016,2015-2016
+Japan,Service,5,2016,2015-2016
+China,Service,4.99,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+Russia,Service,10,2016,2015-2016
+USA,Service,5,2016,2015-2016
+USA,Service,5,2016,2015-2016
+Colombia,Service,15,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,5,2016,2015-2016
+China,Service,25,2016,2015-2016
+UK,Service,5,2016,2015-2016
+Australia,Service,13.3,2016,2015-2016
+China,Service,25,2016,2015-2016
+Philippines,Service,5,2016,2015-2016
+Turkey,Service,34.84,2016,2015-2016
+China,Service,15,2016,2015-2016
+China,Service,10,2016,2015-2016
+USA,Service,25.5,2016,2015-2016
+China,Service,20,2016,2015-2016
+China,Service,110,2016,2015-2016
+China,Service,15,2016,2015-2016
+China,Service,15,2016,2015-2016
+China,Service,25,2016,2015-2016
+Denmark,Service,5,2016,2015-2016
+USA,Service,6,2016,2015-2016
+India,Service,5,2016,2015-2016
+USA,Service,5,2016,2015-2016
+China,Service,15,2016,2015-2016
+Netherlands,Service,10,2016,2015-2016
+Bangladesh,Service,15,2016,2015-2016
+China,Service,25,2016,2015-2016
+USA,Service,5,2016,2015-2016
+Australia,Service,5,2016,2015-2016
+India,Service,5,2016,2015-2016
+S. Korea,Service,5,2016,2015-2016
+China,Service,10,2016,2015-2016
+USA,Service,5,2016,2015-2016
+S. Korea,Service,10,2016,2015-2016
+China,Service,25,2016,2015-2016
+UK,Service,1000,2016,2015-2016
+USA,Service,20,2016,2015-2016
+UK,Service,5,2016,2015-2016
+China,Service,2000,2016,2015-2016
+Singapore,Service,8,2016,2015-2016
+China,Service,20,2016,2015-2016
+China,Service,25,2016,2015-2016
+China,Service,84,2016,2015-2016
+Japan,Service,50,2016,2015-2016
+Bangladesh,Service,5,2016,2015-2016
+China,Service,25,2016,2015-2016
+China,Service,25,2016,2015-2016
+China,Service,25,2016,2015-2016
+India,Service,5.5,2016,2015-2016
+China,Service,20,2016,2015-2016
+China,Service,15,2016,2015-2016
+India,Service,10,2016,2015-2016
+China,Service,10,2016,2015-2016
+Canada,Service,10,2016,2015-2016
+Sweden,Service,20,2016,2015-2016
+USA,Tourism,5,2016,2015-2016
+Australia,Tourism,15,2016,2015-2016
+China,Tourism,30,2016,2015-2016
+Australia,Tourism,10,2016,2015-2016
+Japan,Tourism,5,2016,2015-2016
+China,Tourism,15,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+France,Tourism,5,2016,2015-2016
+Japan,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+Bangladesh,Tourism,15,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,15,2016,2015-2016
+Denmark,Tourism,17,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,20,2016,2015-2016
+Switzerland,Tourism,15,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+S. Korea,Tourism,10,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+USA,Tourism,20,2016,2015-2016
+India,Tourism,15,2016,2015-2016
+Israel,Tourism,10,2016,2015-2016
+Bangladesh,Tourism,8,2016,2015-2016
+China,Tourism,30,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+UK,Tourism,5,2016,2015-2016
+France,Tourism,20,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+USA,Tourism,15,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+Philippines,Tourism,5,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+Australia,Tourism,7.5,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+S. Korea,Tourism,10,2016,2015-2016
+Netherlands,Tourism,2.07,2016,2015-2016
+Netherlands,Tourism,7.5,2016,2015-2016
+Netherlands,Tourism,2.07,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,20,2016,2015-2016
+S. Korea,Tourism,15,2016,2015-2016
+China,Tourism,20,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+Australia,Tourism,27,2016,2015-2016
+Japan,Tourism,5,2016,2015-2016
+Japan,Tourism,5,2016,2015-2016
+USA,Tourism,5,2016,2015-2016
+USA,Tourism,15,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+USA,Tourism,25,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Canada,Tourism,10,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+China,Tourism,20,2016,2015-2016
+Russia,Tourism,15,2016,2015-2016
+USA,Tourism,5,2016,2015-2016
+S. Korea,Tourism,15,2016,2015-2016
+Canada,Tourism,10,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+S. Korea,Tourism,20,2016,2015-2016
+UK,Tourism,40,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+S. Korea,Tourism,30,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Japan,Tourism,10,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Yemen,Tourism,100,2016,2015-2016
+China,Tourism,20,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+NewZealand,Tourism,5,2016,2015-2016
+UK,Tourism,20,2016,2015-2016
+Poland,Tourism,20,2016,2015-2016
+China,Tourism,35,2016,2015-2016
+Bangladesh,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,15,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+Bangladesh,Tourism,5,2016,2015-2016
+S. Korea,Tourism,30,2016,2015-2016
+China,Tourism,15,2016,2015-2016
+China,Tourism,15,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+S. Korea,Tourism,5,2016,2015-2016
+Japan,Tourism,10,2016,2015-2016
+USA,Tourism,15,2016,2015-2016
+USA,Tourism,5,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Bangladesh,Tourism,5,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+China,Tourism,10,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+UK,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Netherlands,Tourism,15,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Netherlands,Tourism,5,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,20,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Romania,Tourism,15,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+China,Tourism,5,2016,2015-2016
+Lebanon,Tourism,25,2016,2015-2016
+China,Tourism,25,2016,2015-2016
+Japan,Tourism,10,2016,2015-2016
+S. Korea,Agriculture and Forestry,5,2017,2016-2017
+China,Agriculture and Forestry,7.5,2017,2016-2017
+China,Agriculture and Forestry,10,2017,2016-2017
+USA,Agriculture and Forestry,5,2017,2016-2017
+Germany,Agriculture and Forestry,6,2017,2016-2017
+Belgium,Agriculture and Forestry,5,2017,2016-2017
+S. Korea,Agriculture and Forestry,5.0004,2017,2016-2017
+Belgium,Agriculture and Forestry,5,2017,2016-2017
+China,Agriculture and Forestry,70,2017,2016-2017
+China,Agriculture and Forestry,40,2017,2016-2017
+S. Korea,Agriculture and Forestry,5,2017,2016-2017
+USA,Agriculture and Forestry,5,2017,2016-2017
+Netherlands,Agriculture and Forestry,31.5,2017,2016-2017
+S. Korea,Agriculture and Forestry,5,2017,2016-2017
+China,Agriculture and Forestry,20,2017,2016-2017
+China,Agriculture and Forestry,5,2017,2016-2017
+France,Agriculture and Forestry,5.005,2017,2016-2017
+USA,Agriculture and Forestry,6,2017,2016-2017
+Japan,Agriculture and Forestry,5.2,2017,2016-2017
+UK,Agriculture and Forestry,5.25,2017,2016-2017
+USA,Agriculture and Forestry,5,2017,2016-2017
+China,Construction,10.2,2017,2016-2017
+USA,"Information, Technology and Transmission Technology",10,2017,2016-2017
+China,"Information, Technology and Transmission Technology",25,2017,2016-2017
+USA,"Information, Technology and Transmission Technology",5,2017,2016-2017
+India,"Information, Technology and Transmission Technology",3.74,2017,2016-2017
+China,"Information, Technology and Transmission Technology",10,2017,2016-2017
+Germany,"Information, Technology and Transmission Technology",5,2017,2016-2017
+USA,"Information, Technology and Transmission Technology",10,2017,2016-2017
+Netherlands,"Information, Technology and Transmission Technology",20,2017,2016-2017
+China,"Information, Technology and Transmission Technology",40,2017,2016-2017
+India,"Information, Technology and Transmission Technology",22.5,2017,2016-2017
+India,"Information, Technology and Transmission Technology",25,2017,2016-2017
+China,"Information, Technology and Transmission Technology",40,2017,2016-2017
+China,"Information, Technology and Transmission Technology",36,2017,2016-2017
+India,"Information, Technology and Transmission Technology",34.556283,2017,2016-2017
+China,"Information, Technology and Transmission Technology",43.4679,2017,2016-2017
+China,"Information, Technology and Transmission Technology",192,2017,2016-2017
+India,"Information, Technology and Transmission Technology",10,2017,2016-2017
+Netherlands,"Information, Technology and Transmission Technology",5.5,2017,2016-2017
+China,"Information, Technology and Transmission Technology",30,2017,2016-2017
+China,"Information, Technology and Transmission Technology",340,2017,2016-2017
+Australia,"Information, Technology and Transmission Technology",5,2017,2016-2017
+India,"Information, Technology and Transmission Technology",100,2017,2016-2017
+India,"Information, Technology and Transmission Technology",10,2017,2016-2017
+Bangladesh,"Information, Technology and Transmission Technology",5,2017,2016-2017
+S. Korea,"Information, Technology and Transmission Technology",45,2017,2016-2017
+China,"Information, Technology and Transmission Technology",10,2017,2016-2017
+Australia,"Information, Technology and Transmission Technology",5.1,2017,2016-2017
+China,"Information, Technology and Transmission Technology",20,2017,2016-2017
+USA,"Information, Technology and Transmission Technology",10,2017,2016-2017
+China,"Information, Technology and Transmission Technology",10,2017,2016-2017
+India,"Information, Technology and Transmission Technology",10,2017,2016-2017
+India,"Information, Technology and Transmission Technology",15,2017,2016-2017
+Netherlands,"Information, Technology and Transmission Technology",31.884,2017,2016-2017
+India,"Information, Technology and Transmission Technology",5,2017,2016-2017
+Netherlands,"Information, Technology and Transmission Technology",5,2017,2016-2017
+China,"Information, Technology and Transmission Technology",20,2017,2016-2017
+China,"Information, Technology and Transmission Technology",18,2017,2016-2017
+Nigeria,"Information, Technology and Transmission Technology",13.15215,2017,2016-2017
+Canada,"Information, Technology and Transmission Technology",17.1449,2017,2016-2017
+India,"Information, Technology and Transmission Technology",10,2017,2016-2017
+China,"Information, Technology and Transmission Technology",120,2017,2016-2017
+India,"Information, Technology and Transmission Technology",30,2017,2016-2017
+China,"Information, Technology and Transmission Technology",5,2017,2016-2017
+USA,"Information, Technology and Transmission Technology",34.2,2017,2016-2017
+UAE,"Information, Technology and Transmission Technology",240,2017,2016-2017
+India,"Information, Technology and Transmission Technology",5,2017,2016-2017
+Netherlands,"Information, Technology and Transmission Technology",31.501767,2017,2016-2017
+Spain,"Information, Technology and Transmission Technology",5.01,2017,2016-2017
+India,"Information, Technology and Transmission Technology",1110,2017,2016-2017
+Canada,"Information, Technology and Transmission Technology",5,2017,2016-2017
+Cyprus,"Information, Technology and Transmission Technology",500,2017,2016-2017
+China,"Information, Technology and Transmission Technology",25,2017,2016-2017
+S. Korea,"Information, Technology and Transmission Technology",5,2017,2016-2017
+China,"Information, Technology and Transmission Technology",15,2017,2016-2017
+Japan,"Information, Technology and Transmission Technology",5.04,2017,2016-2017
+USA,"Information, Technology and Transmission Technology",5,2017,2016-2017
+China,"Information, Technology and Transmission Technology",10,2017,2016-2017
+China,"Information, Technology and Transmission Technology",20.298,2017,2016-2017
+Japan,"Information, Technology and Transmission Technology",5,2017,2016-2017
+India,"Information, Technology and Transmission Technology",17,2017,2016-2017
+India,"Information, Technology and Transmission Technology",105,2017,2016-2017
+S. Korea,"Information, Technology and Transmission Technology",240,2017,2016-2017
+S. Korea,"Information, Technology and Transmission Technology",10,2017,2016-2017
+Sweden,Service,20,2017,2016-2017
+USA,Service,10,2017,2016-2017
+India,Service,10,2017,2016-2017
+China,Service,25,2017,2016-2017
+Pakistan,Service,15,2017,2016-2017
+China,Service,15,2017,2016-2017
+Germany,Service,4.9998,2017,2016-2017
+China,Service,15,2017,2016-2017
+China,Service,25,2017,2016-2017
+China,Service,25,2017,2016-2017
+China,Service,10,2017,2016-2017
+China,Service,5,2017,2016-2017
+USA,Service,5.1,2017,2016-2017
+USA,Service,10,2017,2016-2017
+Netherlands,Service,5,2017,2016-2017
+China,Service,25,2017,2016-2017
+Switzerland,Service,5,2017,2016-2017
+India,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+India,Service,10,2017,2016-2017
+UK,Service,25,2017,2016-2017
+China,Service,25,2017,2016-2017
+USA,Service,6,2017,2016-2017
+Japan,Service,5,2017,2016-2017
+China,Service,5.96,2017,2016-2017
+Bangladesh,Service,5,2017,2016-2017
+China,Service,15,2017,2016-2017
+China,Service,2.5,2017,2016-2017
+China,Service,2.5,2017,2016-2017
+China,Service,25,2017,2016-2017
+China,Service,25,2017,2016-2017
+USA,Service,5,2017,2016-2017
+Russia,Service,5,2017,2016-2017
+India,Service,0.9933,2017,2016-2017
+Netherlands,Service,8.24,2017,2016-2017
+USA,Service,15,2017,2016-2017
+USA,Service,5,2017,2016-2017
+China,Service,40,2017,2016-2017
+China,Service,40,2017,2016-2017
+China,Service,20,2017,2016-2017
+China,Service,525,2017,2016-2017
+USA,Service,5,2017,2016-2017
+China,Service,18.315,2017,2016-2017
+USA,Service,35,2017,2016-2017
+China,Service,100,2017,2016-2017
+China,Service,10,2017,2016-2017
+Turkey,Service,15.3,2017,2016-2017
+USA,Service,19.537,2017,2016-2017
+S. Korea,Service,10,2017,2016-2017
+Switzerland,Service,30,2017,2016-2017
+UK,Service,44.1,2017,2016-2017
+Germany,Service,5,2017,2016-2017
+USA,Service,5,2017,2016-2017
+Canada,Service,7.7,2017,2016-2017
+India,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+Sri Lanka,Service,10,2017,2016-2017
+India,Service,15,2017,2016-2017
+China,Service,36,2017,2016-2017
+China,Service,90,2017,2016-2017
+Australia,Service,5,2017,2016-2017
+China,Service,20,2017,2016-2017
+China,Service,15,2017,2016-2017
+Philippines,Service,5,2017,2016-2017
+Turkey,Service,5,2017,2016-2017
+China,Service,20,2017,2016-2017
+India,Service,96.6,2017,2016-2017
+USA,Service,6,2017,2016-2017
+China,Service,500,2017,2016-2017
+S. Korea,Service,1500,2017,2016-2017
+India,Service,50,2017,2016-2017
+India,Service,10,2017,2016-2017
+Austria,Service,3.5,2017,2016-2017
+China,Service,20,2017,2016-2017
+Japan,Service,5,2017,2016-2017
+India,Service,5,2017,2016-2017
+India,Service,10,2017,2016-2017
+Bangladesh,Service,20,2017,2016-2017
+USA,Service,10,2017,2016-2017
+India,Service,100,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+Singapore,Service,30,2017,2016-2017
+Samoa,Service,5,2017,2016-2017
+S. Korea,Service,20,2017,2016-2017
+China,Service,10,2017,2016-2017
+NewZealand,Service,9.999,2017,2016-2017
+Singapore,Service,6,2017,2016-2017
+Japan,Service,4.9,2017,2016-2017
+Japan,Service,5,2017,2016-2017
+Switzerland,Service,1.44,2017,2016-2017
+China,Service,5,2017,2016-2017
+S. Korea,Service,5,2017,2016-2017
+Saudi Arabia,Service,5,2017,2016-2017
+India,Service,14.7,2017,2016-2017
+India,Service,10,2017,2016-2017
+China,Service,5,2017,2016-2017
+Germany,Service,10,2017,2016-2017
+France,Service,5,2017,2016-2017
+Switzerland,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+USA,Service,10,2017,2016-2017
+USA,Service,5,2017,2016-2017
+NewZealand,Service,5.004,2017,2016-2017
+India,Service,10,2017,2016-2017
+USA,Service,5,2017,2016-2017
+China,Service,10,2017,2016-2017
+USA,Service,5,2017,2016-2017
+Canada,Service,10.5,2017,2016-2017
+Bangladesh,Service,10,2017,2016-2017
+China,Service,45,2017,2016-2017
+China,Service,25,2017,2016-2017
+USA,Service,5.1,2017,2016-2017
+France,Service,5,2017,2016-2017
+USA,Service,5,2017,2016-2017
+USA,Service,5.5,2017,2016-2017
+China,Service,15,2017,2016-2017
+China,Service,15,2017,2016-2017
+Denmark,Service,5,2017,2016-2017
+USA,Service,5,2017,2016-2017
+China,Service,10,2017,2016-2017
+USA,Service,5,2017,2016-2017
+China,Service,30,2017,2016-2017
+China,Service,20,2017,2016-2017
+China,Service,25,2017,2016-2017
+Singapore,Service,5,2017,2016-2017
+China,Service,15.0066,2017,2016-2017
+China,Service,10,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,25,2017,2016-2017
+China,Service,25,2017,2016-2017
+France,Service,5,2017,2016-2017
+S. Korea,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+Swaziland,Service,6,2017,2016-2017
+India,Service,50,2017,2016-2017
+China,Service,25,2017,2016-2017
+China,Service,30,2017,2016-2017
+China,Service,30,2017,2016-2017
+Russia,Service,240,2017,2016-2017
+Thailand,Service,5,2017,2016-2017
+China,Service,5,2017,2016-2017
+India,Service,10,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Service,10,2017,2016-2017
+China,Service,10,2017,2016-2017
+India,Service,40.8,2017,2016-2017
+China,Service,5,2017,2016-2017
+China,Mines and Minerals,30,2017,2016-2017
+India,Mines and Minerals,8.5,2017,2016-2017
+Japan,Tourism,10,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+Japan,Tourism,20,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+Germany,Tourism,13,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+S. Korea,Tourism,5.04,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,49,2017,2016-2017
+Japan,Tourism,5,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+Russia,Tourism,20,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+UK,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,2.5,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,45,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,30,2017,2016-2017
+USA,Tourism,5.225,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+S. Korea,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+Switzerland,Tourism,15,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,35,2017,2016-2017
+USA,Tourism,10,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+Australia,Tourism,5,2017,2016-2017
+USA,Tourism,5,2017,2016-2017
+Israel,Tourism,15,2017,2016-2017
+Uzbekistan,Tourism,30,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+Bangladesh,Tourism,10,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+UK,Tourism,20,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+Mexico,Tourism,10,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+Switzerland,Tourism,5.0184,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+France,Tourism,10.3,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,50,2017,2016-2017
+Belgium,Tourism,5,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+Ukraine,Tourism,10,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,30,2017,2016-2017
+Australia,Tourism,0.5,2017,2016-2017
+India,Tourism,10,2017,2016-2017
+UK,Tourism,10,2017,2016-2017
+China,Tourism,2000,2017,2016-2017
+China,Tourism,2.5,2017,2016-2017
+China,Tourism,9.999,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+USA,Tourism,12.1,2017,2016-2017
+Netherlands,Tourism,5,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+Netherlands,Tourism,20,2017,2016-2017
+China,Tourism,850,2017,2016-2017
+India,Tourism,5,2017,2016-2017
+UK,Tourism,25,2017,2016-2017
+UK,Tourism,49.995,2017,2016-2017
+China,Tourism,500,2017,2016-2017
+China,Tourism,60,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,70,2017,2016-2017
+Australia,Tourism,5,2017,2016-2017
+India,Tourism,73.5,2017,2016-2017
+Israel,Tourism,10,2017,2016-2017
+Israel,Tourism,10,2017,2016-2017
+Japan,Tourism,5,2017,2016-2017
+Malaysia,Tourism,25,2017,2016-2017
+India,Tourism,5,2017,2016-2017
+Canada,Tourism,5,2017,2016-2017
+Belgium,Tourism,10,2017,2016-2017
+Switzerland,Tourism,5,2017,2016-2017
+Spain,Tourism,5.01,2017,2016-2017
+Italy,Tourism,9.8,2017,2016-2017
+Italy,Tourism,5,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+France,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+USA,Tourism,10,2017,2016-2017
+USA,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+India,Tourism,5,2017,2016-2017
+France,Tourism,30,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+Bangladesh,Tourism,20,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+Brazil,Tourism,10,2017,2016-2017
+Spain,Tourism,15,2017,2016-2017
+Bangladesh,Tourism,5,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+France,Tourism,20,2017,2016-2017
+Japan,Tourism,5,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+BritishVirginIsland,Tourism,47.5,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+Belgium,Tourism,20,2017,2016-2017
+USA,Tourism,8,2017,2016-2017
+Bangladesh,Tourism,5,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+Singapore,Tourism,10,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+Malaysia,Tourism,25,2017,2016-2017
+BritishVirginIsland,Tourism,49.5,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+Ukraine,Tourism,35,2017,2016-2017
+India,Tourism,10,2017,2016-2017
+UK,Tourism,5,2017,2016-2017
+China,Tourism,20,2017,2016-2017
+China,Tourism,15,2017,2016-2017
+Japan,Tourism,90,2017,2016-2017
+Romania,Tourism,20,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,10,2017,2016-2017
+China,Tourism,5,2017,2016-2017
+China,Tourism,25,2017,2016-2017
+Spain,Tourism,9.999,2017,2016-2017
+USA,Energy,416.81,2018,2017-2018
+China,Energy,1520,2018,2017-2018
+Italy,Energy,175.46,2018,2017-2018
+China,Energy,20380,2018,2017-2018
+China,Energy,14156.04,2018,2017-2018
+India,Energy,10,2018,2017-2018
+S. Korea,Manufacturing,49,2018,2017-2018
+China,Manufacturing,10,2018,2017-2018
+India,Manufacturing,10,2018,2017-2018
+India,Manufacturing,2390,2018,2017-2018
+Japan,Manufacturing,10,2018,2017-2018
+India,Manufacturing,15,2018,2017-2018
+China,Manufacturing,5,2018,2017-2018
+India,Manufacturing,49,2018,2017-2018
+UAE,Manufacturing,104,2018,2017-2018
+India,Manufacturing,40,2018,2017-2018
+India,Manufacturing,5,2018,2017-2018
+India,Manufacturing,49,2018,2017-2018
+India,Manufacturing,10,2018,2017-2018
+China,Manufacturing,49,2018,2017-2018
+China,Manufacturing,1330,2018,2017-2018
+UAE,Manufacturing,240,2018,2017-2018
+India,Manufacturing,50,2018,2017-2018
+China,Manufacturing,240,2018,2017-2018
+China,Manufacturing,49,2018,2017-2018
+Japan,Manufacturing,20,2018,2017-2018
+S. Korea,Manufacturing,120,2018,2017-2018
+China,Manufacturing,5,2018,2017-2018
+China,Manufacturing,15.3,2018,2017-2018
+China,Manufacturing,40,2018,2017-2018
+Germany,Manufacturing,6.5,2018,2017-2018
+Sweden,Manufacturing,5,2018,2017-2018
+India,Manufacturing,5,2018,2017-2018
+China,Manufacturing,17,2018,2017-2018
+India,Manufacturing,351.12,2018,2017-2018
+Germany,Manufacturing,10,2018,2017-2018
+India,Manufacturing,7.5,2018,2017-2018
+India,Manufacturing,5,2018,2017-2018
+China,Manufacturing,10,2018,2017-2018
+India,Manufacturing,15,2018,2017-2018
+China,Manufacturing,20,2018,2017-2018
+China,Manufacturing,20,2018,2017-2018
+India,Manufacturing,37.63,2018,2017-2018
+India,Manufacturing,22.76,2018,2017-2018
+India,Manufacturing,5.2,2018,2017-2018
+France,Manufacturing,5,2018,2017-2018
+China,Manufacturing,60,2018,2017-2018
+France,Manufacturing,5,2018,2017-2018
+Bangladesh,Manufacturing,48,2018,2017-2018
+China,Manufacturing,15,2018,2017-2018
+China,Manufacturing,28.5,2018,2017-2018
+China,Manufacturing,175.5,2018,2017-2018
+India,Manufacturing,5,2018,2017-2018
+Germany,Manufacturing,5,2018,2017-2018
+France,Manufacturing,5,2018,2017-2018
+China,Manufacturing,30,2018,2017-2018
+France,Manufacturing,5,2018,2017-2018
+Netherlands,Manufacturing,3,2018,2017-2018
+India,Manufacturing,12,2018,2017-2018
+China,Manufacturing,15,2018,2017-2018
+China,Manufacturing,5,2018,2017-2018
+China,Manufacturing,10,2018,2017-2018
+Japan,Manufacturing,100,2018,2017-2018
+India,Manufacturing,146.4,2018,2017-2018
+China,Manufacturing,10,2018,2017-2018
+Netherlands,Manufacturing,3,2018,2017-2018
+Italy,Manufacturing,7.5,2018,2017-2018
+India,Manufacturing,14.3,2018,2017-2018
+India,Manufacturing,5,2018,2017-2018
+India,Manufacturing,90,2018,2017-2018
+India,Manufacturing,99.35,2018,2017-2018
+USA,Agriculture and Forestry,5,2018,2017-2018
+Bangladesh,Agriculture and Forestry,5,2018,2017-2018
+China,Agriculture and Forestry,45,2018,2017-2018
+USA,Agriculture and Forestry,5,2018,2017-2018
+Netherlands,Agriculture and Forestry,10,2018,2017-2018
+France,Agriculture and Forestry,5,2018,2017-2018
+UK,Agriculture and Forestry,5,2018,2017-2018
+China,Agriculture and Forestry,1760,2018,2017-2018
+Denmark,Agriculture and Forestry,10,2018,2017-2018
+Bangladesh,Agriculture and Forestry,5,2018,2017-2018
+Japan,Agriculture and Forestry,5,2018,2017-2018
+China,Agriculture and Forestry,10.5,2018,2017-2018
+China,Agriculture and Forestry,10.5,2018,2017-2018
+Japan,Agriculture and Forestry,10,2018,2017-2018
+Sweden,Agriculture and Forestry,5,2018,2017-2018
+Spain,Agriculture and Forestry,10,2018,2017-2018
+S. Korea,Agriculture and Forestry,10,2018,2017-2018
+India,Agriculture and Forestry,10,2018,2017-2018
+Netherlands,Agriculture and Forestry,5,2018,2017-2018
+Netherlands,Agriculture and Forestry,5,2018,2017-2018
+China,Mines and Minerals,2000,2018,2017-2018
+China,Mines and Minerals,20,2018,2017-2018
+China,Mines and Minerals,1780,2018,2017-2018
+USA,Tourism,10,2018,2017-2018
+Spain,Tourism,10,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+India,Tourism,49,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+USA,Tourism,123.4,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+France,Tourism,11,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Bangladesh,Tourism,10,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+UK,Tourism,5,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+Swaziland,Tourism,5,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+UK,Tourism,15,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+SYRIA,Tourism,10,2018,2017-2018
+Japan,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Israel,Tourism,10,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+Netherlands,Tourism,5,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Vietnam,Tourism,15,2018,2017-2018
+S. Africa,Tourism,15,2018,2017-2018
+Russia,Tourism,15,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+Japan,Tourism,10,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+Sweden,Tourism,5,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+Germany,Tourism,5,2018,2017-2018
+India,Tourism,51.5,2018,2017-2018
+India,Tourism,212.5,2018,2017-2018
+Malaysia,Tourism,20,2018,2017-2018
+France,Tourism,5.04,2018,2017-2018
+India,Tourism,225,2018,2017-2018
+UK,Tourism,5.1,2018,2017-2018
+India,Tourism,10,2018,2017-2018
+Czech Republic,Tourism,5,2018,2017-2018
+Malaysia,Tourism,6.25,2018,2017-2018
+Mauritius,Tourism,40,2018,2017-2018
+India,Tourism,150,2018,2017-2018
+USA,Tourism,5,2018,2017-2018
+Austria,Tourism,7.5,2018,2017-2018
+Japan,Tourism,10,2018,2017-2018
+India,Tourism,56,2018,2017-2018
+France,Tourism,5,2018,2017-2018
+Israel,Tourism,5,2018,2017-2018
+China,Tourism,79.02,2018,2017-2018
+USA,Tourism,5,2018,2017-2018
+S. Korea,Tourism,20,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,7,2018,2017-2018
+France,Tourism,4.17,2018,2017-2018
+S. Korea,Tourism,5,2018,2017-2018
+USA,Tourism,10,2018,2017-2018
+Belgium,Tourism,7.5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+S. Korea,Tourism,48,2018,2017-2018
+USA,Tourism,6,2018,2017-2018
+USA,Tourism,6,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+UK,Tourism,1.53,2018,2017-2018
+UK,Tourism,1.53,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+S. Korea,Tourism,5,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Cambodia,Tourism,10,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+India,Tourism,15,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,18,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+Paraguay,Tourism,5,2018,2017-2018
+UK,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+S. Korea,Tourism,5,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+USA,Tourism,10,2018,2017-2018
+India,Tourism,40.7,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+Belgium,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,30,2018,2017-2018
+France,Tourism,30,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,25,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,495,2018,2017-2018
+USA,Tourism,5,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+Japan,Tourism,7,2018,2017-2018
+China,Tourism,15,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Italy,Tourism,5,2018,2017-2018
+Japan,Tourism,10,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Sweden,Tourism,15,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+S. Korea,Tourism,11,2018,2017-2018
+Mexico,Tourism,10,2018,2017-2018
+India,Tourism,500,2018,2017-2018
+China,Tourism,450,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+N. Korea,Tourism,30,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+Japan,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+Bangladesh,Tourism,10,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+China,Tourism,20,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+USA,Tourism,10,2018,2017-2018
+China,Tourism,10,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+China,Tourism,30,2018,2017-2018
+Germany,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+S. Korea,Tourism,10,2018,2017-2018
+Egypt,Tourism,5,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+USA,Tourism,1.95,2018,2017-2018
+China,Tourism,30,2018,2017-2018
+Germany,Tourism,5,2018,2017-2018
+China,Tourism,5,2018,2017-2018
+S. Korea,Tourism,10,2018,2017-2018
+Egypt,Tourism,5,2018,2017-2018
+China,"Information, Technology and Transmission Technology",5,2018,2017-2018
+China,"Information, Technology and Transmission Technology",5,2018,2017-2018
+Poland,"Information, Technology and Transmission Technology",5,2018,2017-2018
+China,"Information, Technology and Transmission Technology",15,2018,2017-2018
+China,"Information, Technology and Transmission Technology",5,2018,2017-2018
+China,"Information, Technology and Transmission Technology",10,2018,2017-2018
+Russia,"Information, Technology and Transmission Technology",5,2018,2017-2018
+Japan,"Information, Technology and Transmission Technology",17.6,2018,2017-2018
+China,"Information, Technology and Transmission Technology",5,2018,2017-2018
+China,"Information, Technology and Transmission Technology",10,2018,2017-2018
+China,"Information, Technology and Transmission Technology",5,2018,2017-2018
+India,"Information, Technology and Transmission Technology",10.2,2018,2017-2018
+Canada,"Information, Technology and Transmission Technology",10,2018,2017-2018
+USA,"Information, Technology and Transmission Technology",35,2018,2017-2018
+USA,"Information, Technology and Transmission Technology",35,2018,2017-2018
+N. Korea,"Information, Technology and Transmission Technology",80,2018,2017-2018
+Singapore,"Information, Technology and Transmission Technology",5,2018,2017-2018
+France,"Information, Technology and Transmission Technology",5,2018,2017-2018
+UK,"Information, Technology and Transmission Technology",10,2018,2017-2018
+India,"Information, Technology and Transmission Technology",5,2018,2017-2018
+China,"Information, Technology and Transmission Technology",15,2018,2017-2018
+China,"Information, Technology and Transmission Technology",5,2018,2017-2018
+USA,"Information, Technology and Transmission Technology",10,2018,2017-2018
+USA,"Information, Technology and Transmission Technology",200,2018,2017-2018
+India,"Information, Technology and Transmission Technology",10,2018,2017-2018
+Ukraine,"Information, Technology and Transmission Technology",15,2018,2017-2018
+India,Service,5,2018,2017-2018
+Singapore,Service,10,2018,2017-2018
+USA,Service,5.1,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,10,2018,2017-2018
+Germany,Service,5,2018,2017-2018
+Sweden,Service,23,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,20,2018,2017-2018
+Australia,Service,10,2018,2017-2018
+China,Service,10,2018,2017-2018
+Croatia,Service,5,2018,2017-2018
+India,Service,6,2018,2017-2018
+S. Korea,Service,5,2018,2017-2018
+USA,Service,5,2018,2017-2018
+China,Service,10,2018,2017-2018
+Australia,Service,5,2018,2017-2018
+UK,Service,5,2018,2017-2018
+Israel,Service,5,2018,2017-2018
+China,Service,25,2018,2017-2018
+China,Service,20,2018,2017-2018
+India,Service,10,2018,2017-2018
+India,Service,10,2018,2017-2018
+China,Service,200,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,200,2018,2017-2018
+UK,Service,5,2018,2017-2018
+China,Service,5,2018,2017-2018
+India,Service,10,2018,2017-2018
+Brazil,Service,5.2,2018,2017-2018
+Japan,Service,183.6,2018,2017-2018
+Samoa,Service,5,2018,2017-2018
+India,Service,5,2018,2017-2018
+Samoa,Service,3,2018,2017-2018
+Samoa,Service,3,2018,2017-2018
+Samoa,Service,3,2018,2017-2018
+Samoa,Service,3,2018,2017-2018
+Samoa,Service,3,2018,2017-2018
+Samoa,Service,25,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,28,2018,2017-2018
+China,Service,30.6,2018,2017-2018
+USA,Service,5,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,15,2018,2017-2018
+China,Service,5,2018,2017-2018
+Denmark,Service,20.6,2018,2017-2018
+Sweden,Service,5.1,2018,2017-2018
+Malaysia,Service,30,2018,2017-2018
+Japan,Service,15,2018,2017-2018
+Belgium,Service,6,2018,2017-2018
+Netherlands,Service,6.5,2018,2017-2018
+India,Service,5,2018,2017-2018
+Japan,Service,5,2018,2017-2018
+Malaysia,Service,55,2018,2017-2018
+Australia,Service,13.23,2018,2017-2018
+S. Korea,Service,7,2018,2017-2018
+India,Service,5,2018,2017-2018
+Azerbaijan,Service,5.1,2018,2017-2018
+India,Service,97.5,2018,2017-2018
+UK,Service,5,2018,2017-2018
+India,Service,10,2018,2017-2018
+Japan,Service,15,2018,2017-2018
+China,Service,10,2018,2017-2018
+USA,Service,5,2018,2017-2018
+Lebanon,Service,5,2018,2017-2018
+USA,Service,10,2018,2017-2018
+China,Service,25,2018,2017-2018
+China,Service,25,2018,2017-2018
+Australia,Service,7,2018,2017-2018
+S. Korea,Service,20,2018,2017-2018
+China,Service,5,2018,2017-2018
+India,Service,29.15,2018,2017-2018
+China,Service,2,2018,2017-2018
+Germany,Service,15,2018,2017-2018
+S. Korea,Service,10,2018,2017-2018
+China,Service,45,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,15,2018,2017-2018
+Turkey,Service,25,2018,2017-2018
+China,Service,40,2018,2017-2018
+China,Service,20,2018,2017-2018
+China,Service,25,2018,2017-2018
+China,Service,50,2018,2017-2018
+China,Service,30,2018,2017-2018
+Singapore,Service,45,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,25,2018,2017-2018
+China,Service,20,2018,2017-2018
+USA,Service,5,2018,2017-2018
+China,Service,5,2018,2017-2018
+UK,Service,30,2018,2017-2018
+Poland,Service,5,2018,2017-2018
+S. Korea,Service,5,2018,2017-2018
+China,Service,10,2018,2017-2018
+Australia,Service,5,2018,2017-2018
+China,Service,10,2018,2017-2018
+India,Service,11,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,15,2018,2017-2018
+USA,Service,5,2018,2017-2018
+Singapore,Service,5,2018,2017-2018
+China,Service,5,2018,2017-2018
+China,Service,25,2018,2017-2018
+China,Service,10,2018,2017-2018
+India,Service,96,2018,2017-2018
+USA,Service,51,2018,2017-2018
+India,Service,5,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,10,2018,2017-2018
+China,Service,5,2018,2017-2018
+USA,Service,1.95,2018,2017-2018
+Japan,Service,5,2018,2017-2018
+China,Service,25,2018,2017-2018
+China,Service,25,2018,2017-2018
+India,Manufacturing,245,2019,2018-2019
+China,Manufacturing,11.25,2019,2018-2019
+China,Manufacturing,5,2019,2018-2019
+India,Manufacturing,196,2019,2018-2019
+India,Manufacturing,40,2019,2018-2019
+China,Manufacturing,40,2019,2018-2019
+India,Manufacturing,5,2019,2018-2019
+China,Manufacturing,49,2019,2018-2019
+India,Manufacturing,640,2019,2018-2019
+USA,Manufacturing,5,2019,2018-2019
+Bangladesh,Manufacturing,5,2019,2018-2019
+Netherlands,Manufacturing,24.01,2019,2018-2019
+China,Manufacturing,5,2019,2018-2019
+China,Manufacturing,5.5,2019,2018-2019
+India,Manufacturing,9,2019,2018-2019
+India,Manufacturing,10,2019,2018-2019
+India,Manufacturing,139.999305,2019,2018-2019
+China,Manufacturing,45,2019,2018-2019
+China,Manufacturing,5,2019,2018-2019
+China,Manufacturing,15,2019,2018-2019
+Japan,Manufacturing,10,2019,2018-2019
+Japan,Manufacturing,24.75,2019,2018-2019
+India,Manufacturing,2001.1682,2019,2018-2019
+China,Manufacturing,5,2019,2018-2019
+S. Korea,Manufacturing,318.5,2019,2018-2019
+China,Manufacturing,35,2019,2018-2019
+China,Manufacturing,32.5,2019,2018-2019
+China,Manufacturing,245,2019,2018-2019
+India,Manufacturing,130,2019,2018-2019
+China,Manufacturing,48,2019,2018-2019
+China,Manufacturing,10,2019,2018-2019
+India,Manufacturing,70,2019,2018-2019
+France,Manufacturing,9.8175,2019,2018-2019
+Switzerland,Manufacturing,12.75,2019,2018-2019
+S. Korea,Manufacturing,4.9998,2019,2018-2019
+India,Manufacturing,92,2019,2018-2019
+China,Manufacturing,47.082,2019,2018-2019
+India,Manufacturing,10,2019,2018-2019
+S. Korea,Manufacturing,5,2019,2018-2019
+China,Manufacturing,5,2019,2018-2019
+India,Manufacturing,199.17,2019,2018-2019
+India,Manufacturing,36.9,2019,2018-2019
+India,Manufacturing,36,2019,2018-2019
+India,Manufacturing,44.73,2019,2018-2019
+India,Manufacturing,34.38,2019,2018-2019
+India,Manufacturing,330.8976,2019,2018-2019
+India,Manufacturing,29.79,2019,2018-2019
+China,Manufacturing,48,2019,2018-2019
+China,Manufacturing,10,2019,2018-2019
+India,Manufacturing,20,2019,2018-2019
+China,Manufacturing,10,2019,2018-2019
+India,Manufacturing,20,2019,2018-2019
+China,Manufacturing,10,2019,2018-2019
+Singapore,Manufacturing,10,2019,2018-2019
+India,Manufacturing,5.5,2019,2018-2019
+Netherlands,Manufacturing,8.407,2019,2018-2019
+China,Manufacturing,15,2019,2018-2019
+China,Manufacturing,250,2019,2018-2019
+India,Manufacturing,204.350508,2019,2018-2019
+China,Manufacturing,150,2019,2018-2019
+China,Manufacturing,200,2019,2018-2019
+China,Agriculture and Forestry,30,2019,2018-2019
+Italy,Agriculture and Forestry,8.5,2019,2018-2019
+Bangladesh,Agriculture and Forestry,5,2019,2018-2019
+S. Korea,Agriculture and Forestry,15,2019,2018-2019
+India,Agriculture and Forestry,5,2019,2018-2019
+S. Korea,Agriculture and Forestry,5,2019,2018-2019
+Switzerland,Agriculture and Forestry,4.59,2019,2018-2019
+USA,Agriculture and Forestry,5,2019,2018-2019
+USA,Agriculture and Forestry,10,2019,2018-2019
+Japan,Agriculture and Forestry,5,2019,2018-2019
+China,Agriculture and Forestry,40,2019,2018-2019
+S. Africa,Agriculture and Forestry,5,2019,2018-2019
+Japan,Agriculture and Forestry,5,2019,2018-2019
+Japan,Agriculture and Forestry,5.2,2019,2018-2019
+USA,Agriculture and Forestry,5,2019,2018-2019
+China,Agriculture and Forestry,100,2019,2018-2019
+China,Agriculture and Forestry,150,2019,2018-2019
+India,Mines and Minerals,8.96,2019,2018-2019
+India,Mines and Minerals,4.2,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+S. Korea,Tourism,20,2019,2018-2019
+China,Tourism,25,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+India,Tourism,250,2019,2018-2019
+UK,Tourism,5,2019,2018-2019
+S. Korea,Tourism,31.5,2019,2018-2019
+USA,Tourism,60,2019,2018-2019
+Japan,Tourism,4.99966,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+France,Tourism,20,2019,2018-2019
+Sweden,Tourism,5,2019,2018-2019
+Russia,Tourism,6.25,2019,2018-2019
+USA,Tourism,100,2019,2018-2019
+China,Tourism,15,2019,2018-2019
+USA,Tourism,10,2019,2018-2019
+China,Tourism,30,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+China,Tourism,25,2019,2018-2019
+Singapore,Tourism,5,2019,2018-2019
+China,Tourism,25,2019,2018-2019
+N. Korea,Tourism,10,2019,2018-2019
+China,Tourism,25,2019,2018-2019
+NewZealand,Tourism,11,2019,2018-2019
+China,Tourism,4.9996,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+India,Tourism,688,2019,2018-2019
+France,Tourism,15,2019,2018-2019
+USA,Tourism,10,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+China,Tourism,15,2019,2018-2019
+USA,Tourism,5.00004,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+Russia,Tourism,10,2019,2018-2019
+N. Korea,Tourism,15,2019,2018-2019
+USA,Tourism,10,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+India,Tourism,100,2019,2018-2019
+Germany,Tourism,5,2019,2018-2019
+China,Tourism,15,2019,2018-2019
+Germany,Tourism,5,2019,2018-2019
+Malaysia,Tourism,5,2019,2018-2019
+Japan,Tourism,10,2019,2018-2019
+Singapore,Tourism,1480,2019,2018-2019
+S. Korea,Tourism,5,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+S. Korea,Tourism,5,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+China,Tourism,25,2019,2018-2019
+Ukraine,Tourism,15,2019,2018-2019
+China,Tourism,10,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+China,Tourism,25,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+S. Korea,Tourism,186.72,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+China,Tourism,20,2019,2018-2019
+China,Tourism,26,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+Germany,Tourism,5,2019,2018-2019
+USA,Tourism,4.99998,2019,2018-2019
+Japan,Tourism,3,2019,2018-2019
+UK,Tourism,10,2019,2018-2019
+S. Korea,Tourism,10,2019,2018-2019
+Malaysia,Tourism,15,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+Australia,Tourism,3,2019,2018-2019
+S. Korea,Tourism,7.5,2019,2018-2019
+China,Tourism,5,2019,2018-2019
+Japan,Tourism,5.1,2019,2018-2019
+Japan,Tourism,9,2019,2018-2019
+Netherlands,Tourism,2.45,2019,2018-2019
+Netherlands,Tourism,2.45,2019,2018-2019
+Netherlands,Tourism,2.45,2019,2018-2019
+Netherlands,Tourism,1.925,2019,2018-2019
+Netherlands,Tourism,1.925,2019,2018-2019
+Netherlands,Tourism,1.925,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+Myanmar,Tourism,300,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+Myanmar,Tourism,300,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,200,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,120,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,200,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,200,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+India,Tourism,50,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,100,2019,2018-2019
+China,Tourism,251,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+Malaysia,Tourism,100,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,150,2019,2018-2019
+S. Korea,Tourism,50,2019,2018-2019
+Australia,Tourism,50,2019,2018-2019
+China,Tourism,300,2019,2018-2019
+China,Tourism,100,2019,2018-2019
+China,Tourism,100,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,250,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+China,Tourism,50,2019,2018-2019
+Mauritius,"Information, Technology and Transmission Technology",80,2019,2018-2019
+China,"Information, Technology and Transmission Technology",12.917,2019,2018-2019
+USA,"Information, Technology and Transmission Technology",10,2019,2018-2019
+UAE,"Information, Technology and Transmission Technology",5,2019,2018-2019
+Ireland,"Information, Technology and Transmission Technology",5,2019,2018-2019
+China,"Information, Technology and Transmission Technology",5,2019,2018-2019
+France,"Information, Technology and Transmission Technology",7.2,2019,2018-2019
+China,"Information, Technology and Transmission Technology",5,2019,2018-2019
+Japan,"Information, Technology and Transmission Technology",8,2019,2018-2019
+India,"Information, Technology and Transmission Technology",5,2019,2018-2019
+Singapore,"Information, Technology and Transmission Technology",5,2019,2018-2019
+S. Korea,"Information, Technology and Transmission Technology",10,2019,2018-2019
+India,"Information, Technology and Transmission Technology",5,2019,2018-2019
+USA,"Information, Technology and Transmission Technology",5,2019,2018-2019
+Singapore,"Information, Technology and Transmission Technology",5,2019,2018-2019
+Japan,"Information, Technology and Transmission Technology",50,2019,2018-2019
+N. Korea,"Information, Technology and Transmission Technology",15,2019,2018-2019
+UK,"Information, Technology and Transmission Technology",21.3598,2019,2018-2019
+China,"Information, Technology and Transmission Technology",5,2019,2018-2019
+China,"Information, Technology and Transmission Technology",25,2019,2018-2019
+Japan,"Information, Technology and Transmission Technology",5,2019,2018-2019
+UK,"Information, Technology and Transmission Technology",5,2019,2018-2019
+China,"Information, Technology and Transmission Technology",250,2019,2018-2019
+China,"Information, Technology and Transmission Technology",100,2019,2018-2019
+Canada,Service,90,2019,2018-2019
+China,Service,5,2019,2018-2019
+USA,Service,5,2019,2018-2019
+Ireland,Service,10,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,25,2019,2018-2019
+Thailand,Service,5,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,25,2019,2018-2019
+China,Service,30,2019,2018-2019
+China,Service,9,2019,2018-2019
+S. Korea,Service,5,2019,2018-2019
+UAE,Service,70,2019,2018-2019
+China,Service,10,2019,2018-2019
+Japan,Service,10,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,5,2019,2018-2019
+China,Service,20,2019,2018-2019
+Japan,Service,5,2019,2018-2019
+S. Korea,Service,5,2019,2018-2019
+China,Service,200,2019,2018-2019
+China,Service,25,2019,2018-2019
+China,Service,30,2019,2018-2019
+Samoa,Service,45,2019,2018-2019
+Samoa,Service,10,2019,2018-2019
+Samoa,Service,45,2019,2018-2019
+China,Service,10,2019,2018-2019
+Qatar,Service,240,2019,2018-2019
+China,Service,10,2019,2018-2019
+UK,Service,5,2019,2018-2019
+China,Service,15,2019,2018-2019
+China,Service,25,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,25,2019,2018-2019
+India,Service,5,2019,2018-2019
+China,Service,25,2019,2018-2019
+India,Service,100,2019,2018-2019
+China,Service,5,2019,2018-2019
+China,Service,50,2019,2018-2019
+India,Service,6,2019,2018-2019
+China,Service,20,2019,2018-2019
+India,Service,5,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,5.1,2019,2018-2019
+China,Service,20,2019,2018-2019
+China,Service,25,2019,2018-2019
+S. Korea,Service,5,2019,2018-2019
+Japan,Service,13.75,2019,2018-2019
+India,Service,5,2019,2018-2019
+India,Service,5,2019,2018-2019
+Malaysia,Service,100,2019,2018-2019
+Malaysia,Service,28,2019,2018-2019
+China,Service,5,2019,2018-2019
+S. Korea,Service,5,2019,2018-2019
+India,Service,5,2019,2018-2019
+Italy,Service,5,2019,2018-2019
+China,Service,10,2019,2018-2019
+India,Service,5,2019,2018-2019
+India,Service,17,2019,2018-2019
+S. Korea,Service,5,2019,2018-2019
+USA,Service,10,2019,2018-2019
+China,Service,5.1,2019,2018-2019
+China,Service,49.5,2019,2018-2019
+China,Service,10,2019,2018-2019
+China,Service,5,2019,2018-2019
+France,Service,5.145,2019,2018-2019
+India,Service,5,2019,2018-2019
+Japan,Service,5,2019,2018-2019
+China,Service,12,2019,2018-2019
+India,Service,5,2019,2018-2019
+China,Service,30,2019,2018-2019
+China,Service,5,2019,2018-2019
+India,Service,10,2019,2018-2019
+India,Service,5,2019,2018-2019
+S. Korea,Service,5.2,2019,2018-2019
+Japan,Service,4.9998,2019,2018-2019
+Malaysia,Service,5,2019,2018-2019
+UK,Service,5,2019,2018-2019
+China,Service,15,2019,2018-2019
+China,Service,5,2019,2018-2019
+Malaysia,Service,4.99998,2019,2018-2019
+NewZealand,Service,5,2019,2018-2019
+India,Service,5,2019,2018-2019
+Myanmar,Service,300,2019,2018-2019
+China,Service,250,2019,2018-2019
+Myanmar,Service,300,2019,2018-2019
+China,Service,250,2019,2018-2019
+Germany,Service,50,2019,2018-2019
+China,Service,1000,2019,2018-2019
+China,Service,150,2019,2018-2019
+China,Service,300,2019,2018-2019
+China,Service,50,2019,2018-2019
+China,Service,150,2019,2018-2019
+India,Service,99.981,2019,2018-2019
+China,Service,100,2019,2018-2019
+China,Service,100,2019,2018-2019
+China,Service,250,2019,2018-2019
+Turkey,Service,50,2019,2018-2019
+China,Service,300,2019,2018-2019
+China,Service,250,2019,2018-2019
+China,Service,100,2019,2018-2019
+India,Service,250,2019,2018-2019
+China,Service,250,2019,2018-2019
+China,Service,300,2019,2018-2019
+China,Service,150,2019,2018-2019
+China,Service,250,2019,2018-2019
+China,Tourism,100,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+Bangladesh,Manufacturing,150,2020,2019-2020
+China,Construction,51,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Service,250,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Service,200,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+India,Tourism,50,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,270,2020,2019-2020
+China,Manufacturing,100,2020,2019-2020
+China,Construction,300,2020,2019-2020
+Japan,Tourism,50,2020,2019-2020
+China,Service,50,2020,2019-2020
+India,Tourism,100,2020,2019-2020
+China,Construction,150,2020,2019-2020
+Australia,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+India,Manufacturing,50,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,Manufacturing,200,2020,2019-2020
+China,Tourism,300,2020,2019-2020
+UK,"Information, Technology and Transmission Technology",1350,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Manufacturing,242,2020,2019-2020
+China,Manufacturing,60,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Manufacturing,248,2020,2019-2020
+France,Tourism,200,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,Service,150,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Manufacturing,100,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+UK,Construction,160,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Service,100,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+China,Mines and Minerals,200,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Construction,70,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Mines and Minerals,100,2020,2019-2020
+Pakistan,Construction,50,2020,2019-2020
+China,Construction,150,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Manufacturing,50,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Service,250,2020,2019-2020
+Japan,Construction,51,2020,2019-2020
+India,Construction,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+UAE,Energy,480,2020,2019-2020
+UK,Service,50,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Energy,200,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+India,Service,2100,2020,2019-2020
+India,Manufacturing,147,2020,2019-2020
+India,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",100,2020,2019-2020
+Pakistan,Construction,50,2020,2019-2020
+China,Mines and Minerals,165,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+China,Service,150,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,450,2020,2019-2020
+China,Manufacturing,50,2020,2019-2020
+Malaysia,Tourism,50,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+Canada,Manufacturing,500,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+S. Korea,Manufacturing,150,2020,2019-2020
+UK,Energy,367,2020,2019-2020
+USA,Energy,4074,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",60,2020,2019-2020
+Poland,Tourism,150,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Service,50,2020,2019-2020
+France,Tourism,50,2020,2019-2020
+China,Manufacturing,50,2020,2019-2020
+China,Manufacturing,100,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,100,2020,2019-2020
+S. Korea,Manufacturing,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Service,250,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Manufacturing,150,2020,2019-2020
+India,Manufacturing,228,2020,2019-2020
+UAE,Energy,0,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+India,Energy,58,2020,2019-2020
+India,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Manufacturing,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+USA,Tourism,54,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,Mines and Minerals,200,2020,2019-2020
+China,Manufacturing,50,2020,2019-2020
+USA,Service,51,2020,2019-2020
+China,Service,130,2020,2019-2020
+India,Manufacturing,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",200,2020,2019-2020
+Australia,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Construction,50,2020,2019-2020
+S. Korea,Manufacturing,50,2020,2019-2020
+Japan,Service,50,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+India,Manufacturing,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+Bangladesh,Tourism,50,2020,2019-2020
+USA,"Information, Technology and Transmission Technology",50,2020,2019-2020
+China,Manufacturing,100,2020,2019-2020
+India,Mines and Minerals,100,2020,2019-2020
+China,Tourism,200,2020,2019-2020
+India,Manufacturing,56,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Construction,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",50,2020,2019-2020
+Singapore,Manufacturing,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Service,100,2020,2019-2020
+China,Service,100,2020,2019-2020
+Netherlands,Service,50,2020,2019-2020
+Malaysia,Tourism,30,2020,2019-2020
+India,Service,50,2020,2019-2020
+India,Service,50,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+Netherlands,Tourism,6,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Service,150,2020,2019-2020
+China,Service,200,2020,2019-2020
+China,Tourism,1,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",100,2020,2019-2020
+China,Service,50,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Service,250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,"Information, Technology and Transmission Technology",250,2020,2019-2020
+China,Service,250,2020,2019-2020
+China,Service,250,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,5,2020,2019-2020
+India,Tourism,558,2020,2019-2020
+China,Construction,250,2020,2019-2020
+China,Service,200,2020,2019-2020
+China,Service,200,2020,2019-2020
+China,Tourism,150,2020,2019-2020
+China,Construction,5,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,50,2020,2019-2020
+China,Tourism,250,2020,2019-2020
+India,Tourism,50,2020,2019-2020
+India,Tourism,50,2020,2019-2020
+India,Tourism,50,2020,2019-2020
+China,Manufacturing,125,2020,2019-2020
